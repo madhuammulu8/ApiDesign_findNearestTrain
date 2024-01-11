@@ -51,7 +51,7 @@ def get_address(latitude, longitude):
     return address
 
 
-# Code For Rate Limiter Maximum of 10 requests within 60 seconds
+# print(find_nearest_point(-75.76, 40.0))
 
 def ratelimiter(maximumcalls: int, time_frame: int):
     def decorator(func):
