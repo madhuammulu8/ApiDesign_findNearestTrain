@@ -3,6 +3,6 @@ uvicorn==0.15.0
 geopandas==0.10.1
 shapely==2.0.2
 fiona==1.9.5
-fastapi-limiter==0.3.0
+fastapi-limiter==0.1.6
 geopy==2.2.0
 gdal==3.2.2
