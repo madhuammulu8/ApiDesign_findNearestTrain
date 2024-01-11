@@ -1,1 +1,1 @@
-web: gunicorn -w 4 -k uvicorn.workers.UvicornWorker main:app
+web: uvicorn your_module_name:app --host 0.0.0.0 --port $PORT
