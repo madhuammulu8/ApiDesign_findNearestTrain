@@ -7,7 +7,12 @@ Geopy: pip install geopy
 FastPI:pip install fastapi
 Point : pip install shapely
 
-Run Command: uvicorn main:app --reload
+Run Command:
+
+uvicorn main:app --reload
+ or
+gunicorn -w 4 -k uvicorn.workers.UvicornWorker main:app
+
 ```
 
 
