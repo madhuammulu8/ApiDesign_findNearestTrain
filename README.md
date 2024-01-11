@@ -15,6 +15,7 @@ gunicorn -w 4 -k uvicorn.workers.UvicornWorker main:app
 
 ```
 
+Frontend to enter details : https://equal-coyote.static.domains/
 
 ## ApiDesign_findingNearestTrain
 
