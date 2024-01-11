@@ -1,0 +1,2966 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="SEPTAGISRegionalRailStations_2016" id="SEPTAGISRegionalRailStations_2016">
+	<SimpleField name="At_Street" type="string"></SimpleField>
+	<SimpleField name="City" type="string"></SimpleField>
+	<SimpleField name="County" type="string"></SimpleField>
+	<SimpleField name="Field_1" type="string"></SimpleField>
+	<SimpleField name="Latitude" type="float"></SimpleField>
+	<SimpleField name="Line_Name" type="string"></SimpleField>
+	<SimpleField name="Longitude" type="float"></SimpleField>
+	<SimpleField name="On_Street" type="string"></SimpleField>
+	<SimpleField name="State" type="string"></SimpleField>
+	<SimpleField name="Station_Na" type="string"></SimpleField>
+	<SimpleField name="Stop_ID" type="int"></SimpleField>
+	<SimpleField name="Street_Add" type="string"></SimpleField>
+	<SimpleField name="Zip" type="string"></SimpleField>
+</Schema>
+<Folder><name>SEPTAGISRegionalRailStations_2016</name>
+  <Placemark>
+	<name>Airport Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Arrivals Rd</SimpleData>
+		<SimpleData name="City">Philadelphia</SimpleData>
+		<SimpleData name="County">Philadelphia</SimpleData>
+		<SimpleData name="Field_1">Airport Line</SimpleData>
+		<SimpleData name="Latitude">39.879077</SimpleData>
+		<SimpleData name="Line_Name">Airport Line</SimpleData>
+		<SimpleData name="Longitude">-75.239952</SimpleData>
+		<SimpleData name="On_Street">Terminals E&amp;amp;F</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Airport Terminals E&amp;amp;F</SimpleData>
+		<SimpleData name="Stop_ID">90401</SimpleData>
+		<SimpleData name="Street_Add">Airport Terminals E&amp;amp;F</SimpleData>
+		<SimpleData name="Zip">19153</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.2399520047229,39.8790765063711</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Airport Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Arrivals Rd</SimpleData>
+		<SimpleData name="City">Philadelphia</SimpleData>
+		<SimpleData name="County">Philadelphia</SimpleData>
+		<SimpleData name="Field_1">Airport Line</SimpleData>
+		<SimpleData name="Latitude">39.877385</SimpleData>
+		<SimpleData name="Line_Name">Airport Line</SimpleData>
+		<SimpleData name="Longitude">-75.241297</SimpleData>
+		<SimpleData name="On_Street">Terminals C&amp;amp;D</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Airport Terminals C&amp;amp;D</SimpleData>
+		<SimpleData name="Stop_ID">90402</SimpleData>
+		<SimpleData name="Street_Add">Airport Terminals C&amp;amp;D</SimpleData>
+		<SimpleData name="Zip">19153</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.2412974054422,39.8773846462757</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Airport Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Arrivals Rd</SimpleData>
+		<SimpleData name="City">Philadelphia</SimpleData>
+		<SimpleData name="County">Philadelphia</SimpleData>
+		<SimpleData name="Field_1">Airport Line</SimpleData>
+		<SimpleData name="Latitude">39.8763</SimpleData>
+		<SimpleData name="Line_Name">Airport Line</SimpleData>
+		<SimpleData name="Longitude">-75.244758</SimpleData>
+		<SimpleData name="On_Street">Terminal B</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Airport Terminal B</SimpleData>
+		<SimpleData name="Stop_ID">90403</SimpleData>
+		<SimpleData name="Street_Add">Airport Terminal B</SimpleData>
+		<SimpleData name="Zip">19153</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.24475821401,39.8763002507155</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Airport Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Arrivals Rd</SimpleData>
+		<SimpleData name="City">Philadelphia</SimpleData>
+		<SimpleData name="County">Philadelphia</SimpleData>
+		<SimpleData name="Field_1">Airport Line</SimpleData>
+		<SimpleData name="Latitude">39.87594</SimpleData>
+		<SimpleData name="Line_Name">Airport Line</SimpleData>
+		<SimpleData name="Longitude">-75.24658</SimpleData>
+		<SimpleData name="On_Street">Terminal A</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Airport Terminal A</SimpleData>
+		<SimpleData name="Stop_ID">90404</SimpleData>
+		<SimpleData name="Street_Add">Airport Terminal A</SimpleData>
+		<SimpleData name="Zip">19153</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.2465802259851,39.8759396073694</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Airport Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">84th St</SimpleData>
+		<SimpleData name="City">Philadelphia</SimpleData>
+		<SimpleData name="County">Philadelphia</SimpleData>
+		<SimpleData name="Field_1">Airport Line</SimpleData>
+		<SimpleData name="Latitude">39.89165</SimpleData>
+		<SimpleData name="Line_Name">Airport Line</SimpleData>
+		<SimpleData name="Longitude">-75.244991</SimpleData>
+		<SimpleData name="On_Street">Bartram Ave</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Eastwick</SimpleData>
+		<SimpleData name="Stop_ID">90405</SimpleData>
+		<SimpleData name="Street_Add">8511 Bartram Ave</SimpleData>
+		<SimpleData name="Zip">19153</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.2449905095193,39.8916504573246</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Wilmington Newark Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">S. College Ave</SimpleData>
+		<SimpleData name="City">Newark</SimpleData>
+		<SimpleData name="County">Delaware</SimpleData>
+		<SimpleData name="Field_1">Wilmington Newark Line</SimpleData>
+		<SimpleData name="Latitude">39.670255</SimpleData>
+		<SimpleData name="Line_Name">Wilmington Newark Line</SimpleData>
+		<SimpleData name="Longitude">-75.752577</SimpleData>
+		<SimpleData name="On_Street">Mopar Dr</SimpleData>
+		<SimpleData name="State">DE</SimpleData>
+		<SimpleData name="Station_Na">Newark</SimpleData>
+		<SimpleData name="Stop_ID">90201</SimpleData>
+		<SimpleData name="Street_Add">10 Mopar Dr &amp;amp; S. College Ave</SimpleData>
+		<SimpleData name="Zip">19711</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.7525769335565,39.670254672707</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Wilmington Newark Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">French St</SimpleData>
+		<SimpleData name="City">Wimington</SimpleData>
+		<SimpleData name="County">Delaware</SimpleData>
+		<SimpleData name="Field_1">Wilmington Newark Line</SimpleData>
+		<SimpleData name="Latitude">39.736952</SimpleData>
+		<SimpleData name="Line_Name">Wilmington Newark Line</SimpleData>
+		<SimpleData name="Longitude">-75.550934</SimpleData>
+		<SimpleData name="On_Street">E. Front St</SimpleData>
+		<SimpleData name="State">DE</SimpleData>
+		<SimpleData name="Station_Na">Wilmington</SimpleData>
+		<SimpleData name="Stop_ID">90203</SimpleData>
+		<SimpleData name="Street_Add">100 S. French St</SimpleData>
+		<SimpleData name="Zip">19801</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5509340166159,39.7369520448171</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Wilmington Newark Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Marion Ave</SimpleData>
+		<SimpleData name="City">Claymont</SimpleData>
+		<SimpleData name="County">Delaware</SimpleData>
+		<SimpleData name="Field_1">Wilmington Newark Line</SimpleData>
+		<SimpleData name="Latitude">39.797811</SimpleData>
+		<SimpleData name="Line_Name">Wilmington Newark Line</SimpleData>
+		<SimpleData name="Longitude">-75.452077</SimpleData>
+		<SimpleData name="On_Street">Myrtle Ave</SimpleData>
+		<SimpleData name="State">DE</SimpleData>
+		<SimpleData name="Station_Na">Claymont</SimpleData>
+		<SimpleData name="Stop_ID">90204</SimpleData>
+		<SimpleData name="Street_Add">200 Myrtle Ave</SimpleData>
+		<SimpleData name="Zip">19703</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.4520772404658,39.7978112213505</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Wilmington Newark Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Washington Ave</SimpleData>
+		<SimpleData name="City">Marcus Hook</SimpleData>
+		<SimpleData name="County">Delaware</SimpleData>
+		<SimpleData name="Field_1">Wilmington Newark Line</SimpleData>
+		<SimpleData name="Latitude">39.821687</SimpleData>
+		<SimpleData name="Line_Name">Wilmington Newark Line</SimpleData>
+		<SimpleData name="Longitude">-75.419499</SimpleData>
+		<SimpleData name="On_Street">W. 12th St</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Marcus Hook</SimpleData>
+		<SimpleData name="Stop_ID">90205</SimpleData>
+		<SimpleData name="Street_Add">20 W. 12th St</SimpleData>
+		<SimpleData name="Zip">19061</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.4194991465462,39.8216868798748</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chestnut Hill West Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Highland Ave</SimpleData>
+		<SimpleData name="City">Philadelphia</SimpleData>
+		<SimpleData name="County">Delaware</SimpleData>
+		<SimpleData name="Field_1">Chestnut Hill West Line</SimpleData>
+		<SimpleData name="Latitude">40.07013</SimpleData>
+		<SimpleData name="Line_Name">Chestnut Hill West Line</SimpleData>
+		<SimpleData name="Longitude">-75.210998</SimpleData>
+		<SimpleData name="On_Street">St. Martins Ln</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Highland</SimpleData>
+		<SimpleData name="Stop_ID">90802</SimpleData>
+		<SimpleData name="Street_Add">8452 St. Martins Ln</SimpleData>
+		<SimpleData name="Zip">19118</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.2109981982717,40.0701296272224</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Wilmington Newark Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">6th St</SimpleData>
+		<SimpleData name="City">Chester</SimpleData>
+		<SimpleData name="County">Delaware</SimpleData>
+		<SimpleData name="Field_1">Wilmington Newark Line</SimpleData>
+		<SimpleData name="Latitude">39.849559</SimpleData>
+		<SimpleData name="Line_Name">Wilmington Newark Line</SimpleData>
+		<SimpleData name="Longitude">-75.359924</SimpleData>
+		<SimpleData name="On_Street">Avenue of the States</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Chester T.C.</SimpleData>
+		<SimpleData name="Stop_ID">90207</SimpleData>
+		<SimpleData name="Street_Add">550 Avenue of the States</SimpleData>
+		<SimpleData name="Zip">19013</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.3599237417448,39.8495586030571</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Wilmington Newark Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Industrial Hwy</SimpleData>
+		<SimpleData name="City">Crum Lynne</SimpleData>
+		<SimpleData name="County">Delaware</SimpleData>
+		<SimpleData name="Field_1">Wilmington Newark Line</SimpleData>
+		<SimpleData name="Latitude">39.85742</SimpleData>
+		<SimpleData name="Line_Name">Wilmington Newark Line</SimpleData>
+		<SimpleData name="Longitude">-75.341661</SimpleData>
+		<SimpleData name="On_Street">Saville Ave</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Eddystone</SimpleData>
+		<SimpleData name="Stop_ID">90208</SimpleData>
+		<SimpleData name="Street_Add">650 Saville Ave</SimpleData>
+		<SimpleData name="Zip">19022</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.341660909883,39.8574200012135</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Wilmington Newark Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Chester Pike</SimpleData>
+		<SimpleData name="City">Ridley Park</SimpleData>
+		<SimpleData name="County">Delaware</SimpleData>
+		<SimpleData name="Field_1">Wilmington Newark Line</SimpleData>
+		<SimpleData name="Latitude">39.871862</SimpleData>
+		<SimpleData name="Line_Name">Wilmington Newark Line</SimpleData>
+		<SimpleData name="Longitude">-75.330957</SimpleData>
+		<SimpleData name="On_Street">W. Ridley Ave</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Crum Lynne</SimpleData>
+		<SimpleData name="Stop_ID">90209</SimpleData>
+		<SimpleData name="Street_Add">350 W. Ridley Ave</SimpleData>
+		<SimpleData name="Zip">19078</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.3309570985341,39.8718619053331</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Wilmington Newark Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Morton Ave</SimpleData>
+		<SimpleData name="City">Ridley Park</SimpleData>
+		<SimpleData name="County">Delaware</SimpleData>
+		<SimpleData name="Field_1">Wilmington Newark Line</SimpleData>
+		<SimpleData name="Latitude">39.880531</SimpleData>
+		<SimpleData name="Line_Name">Wilmington Newark Line</SimpleData>
+		<SimpleData name="Longitude">-75.322069</SimpleData>
+		<SimpleData name="On_Street">E. Hinckley Ave</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Ridley Park</SimpleData>
+		<SimpleData name="Stop_ID">90210</SimpleData>
+		<SimpleData name="Street_Add">201 E. Hinckley Ave</SimpleData>
+		<SimpleData name="Zip">19078</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.3220692761787,39.8805310501047</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Wilmington Newark Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Lincoln Ave</SimpleData>
+		<SimpleData name="City">Propect Park</SimpleData>
+		<SimpleData name="County">Delaware</SimpleData>
+		<SimpleData name="Field_1">Wilmington Newark Line</SimpleData>
+		<SimpleData name="Latitude">39.888143</SimpleData>
+		<SimpleData name="Line_Name">Wilmington Newark Line</SimpleData>
+		<SimpleData name="Longitude">-75.309411</SimpleData>
+		<SimpleData name="On_Street">Maryland Ave</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Prospect Park</SimpleData>
+		<SimpleData name="Stop_ID">90211</SimpleData>
+		<SimpleData name="Street_Add">749 Maryland Ave</SimpleData>
+		<SimpleData name="Zip">19076</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.3094110714952,39.8881433006061</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Wilmington Newark Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Winona Ave</SimpleData>
+		<SimpleData name="City">Norwood</SimpleData>
+		<SimpleData name="County">Delaware</SimpleData>
+		<SimpleData name="Field_1">Wilmington Newark Line</SimpleData>
+		<SimpleData name="Latitude">39.891238</SimpleData>
+		<SimpleData name="Line_Name">Wilmington Newark Line</SimpleData>
+		<SimpleData name="Longitude">-75.302146</SimpleData>
+		<SimpleData name="On_Street">Welcome Ave</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Norwood</SimpleData>
+		<SimpleData name="Stop_ID">90212</SimpleData>
+		<SimpleData name="Street_Add">498 Welcome Ave</SimpleData>
+		<SimpleData name="Zip">19074</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.3021459030107,39.891237575938</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Wilmington Newark Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Chester Pike</SimpleData>
+		<SimpleData name="City">Glenolden</SimpleData>
+		<SimpleData name="County">Delaware</SimpleData>
+		<SimpleData name="Field_1">Wilmington Newark Line</SimpleData>
+		<SimpleData name="Latitude">39.896223</SimpleData>
+		<SimpleData name="Line_Name">Wilmington Newark Line</SimpleData>
+		<SimpleData name="Longitude">-75.290164</SimpleData>
+		<SimpleData name="On_Street">E. Glenolden Ave</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Glenolden</SimpleData>
+		<SimpleData name="Stop_ID">90213</SimpleData>
+		<SimpleData name="Street_Add">85 E. Glenolden Ave</SimpleData>
+		<SimpleData name="Zip">19036</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.2901640585529,39.8962227792018</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Wilmington Newark Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Elmwood Ave</SimpleData>
+		<SimpleData name="City">Folcroft</SimpleData>
+		<SimpleData name="County">Delaware</SimpleData>
+		<SimpleData name="Field_1">Wilmington Newark Line</SimpleData>
+		<SimpleData name="Latitude">39.900552</SimpleData>
+		<SimpleData name="Line_Name">Wilmington Newark Line</SimpleData>
+		<SimpleData name="Longitude">-75.279754</SimpleData>
+		<SimpleData name="On_Street">Baltimore Ave</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Folcroft</SimpleData>
+		<SimpleData name="Stop_ID">90214</SimpleData>
+		<SimpleData name="Street_Add">1555 Baltimore Ave</SimpleData>
+		<SimpleData name="Zip">19032</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.2797542873583,39.9005520570146</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Wilmington Newark Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Elmwood Ave</SimpleData>
+		<SimpleData name="City">Sharon Hill</SimpleData>
+		<SimpleData name="County">Delaware</SimpleData>
+		<SimpleData name="Field_1">Wilmington Newark Line</SimpleData>
+		<SimpleData name="Latitude">39.904283</SimpleData>
+		<SimpleData name="Line_Name">Wilmington Newark Line</SimpleData>
+		<SimpleData name="Longitude">-75.270836</SimpleData>
+		<SimpleData name="On_Street">Sharon Ave</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Sharon Hill</SimpleData>
+		<SimpleData name="Stop_ID">90215</SimpleData>
+		<SimpleData name="Street_Add">414 Sharon Ave</SimpleData>
+		<SimpleData name="Zip">19079</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.2708359265491,39.9042829913927</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Wilmington Newark Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Elmwood Ave</SimpleData>
+		<SimpleData name="City">Sharon Hill</SimpleData>
+		<SimpleData name="County">Delaware</SimpleData>
+		<SimpleData name="Field_1">Wilmington Newark Line</SimpleData>
+		<SimpleData name="Latitude">39.908034</SimpleData>
+		<SimpleData name="Line_Name">Wilmington Newark Line</SimpleData>
+		<SimpleData name="Longitude">-75.265</SimpleData>
+		<SimpleData name="On_Street">Oak Ave</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Curtis Park</SimpleData>
+		<SimpleData name="Stop_ID">90216</SimpleData>
+		<SimpleData name="Street_Add">400 Oak Ave</SimpleData>
+		<SimpleData name="Zip">19079</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.2650004417843,39.9080340563536</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Wilmington Newark Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Pine St</SimpleData>
+		<SimpleData name="City">Darby</SimpleData>
+		<SimpleData name="County">Delaware</SimpleData>
+		<SimpleData name="Field_1">Wilmington Newark Line</SimpleData>
+		<SimpleData name="Latitude">39.912943</SimpleData>
+		<SimpleData name="Line_Name">Wilmington Newark Line</SimpleData>
+		<SimpleData name="Longitude">-75.25458</SimpleData>
+		<SimpleData name="On_Street">S. 4th St</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Darby</SimpleData>
+		<SimpleData name="Stop_ID">90217</SimpleData>
+		<SimpleData name="Street_Add">399 S. 4th St</SimpleData>
+		<SimpleData name="Zip">19023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.2545802637153,39.9129425416622</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Warminster Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Susquehanna Rd</SimpleData>
+		<SimpleData name="City">Abington</SimpleData>
+		<SimpleData name="County">Montogomery</SimpleData>
+		<SimpleData name="Field_1">Warminster Line</SimpleData>
+		<SimpleData name="Latitude">40.120885</SimpleData>
+		<SimpleData name="Line_Name">Warminster Line</SimpleData>
+		<SimpleData name="Longitude">-75.134122</SimpleData>
+		<SimpleData name="On_Street">Easton Rd</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Roslyn</SimpleData>
+		<SimpleData name="Stop_ID">90413</SimpleData>
+		<SimpleData name="Street_Add">1095 Easton Rd</SimpleData>
+		<SimpleData name="Zip">19001</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.134122485085,40.1208847592129</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Warminster Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Rockwell Rd</SimpleData>
+		<SimpleData name="City">Willow Grove</SimpleData>
+		<SimpleData name="County">Montogomery</SimpleData>
+		<SimpleData name="Field_1">Warminster Line</SimpleData>
+		<SimpleData name="Latitude">40.133267</SimpleData>
+		<SimpleData name="Line_Name">Warminster Line</SimpleData>
+		<SimpleData name="Longitude">-75.118635</SimpleData>
+		<SimpleData name="On_Street">Rubicam Ave</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Crestmont</SimpleData>
+		<SimpleData name="Stop_ID">90414</SimpleData>
+		<SimpleData name="Street_Add">2198 Rubicam Ave</SimpleData>
+		<SimpleData name="Zip">19090</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.1186349933337,40.1332674648649</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Warminster Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Old York Rd</SimpleData>
+		<SimpleData name="City">Willow Grove</SimpleData>
+		<SimpleData name="County">Montogomery</SimpleData>
+		<SimpleData name="Field_1">Warminster Line</SimpleData>
+		<SimpleData name="Latitude">40.143672</SimpleData>
+		<SimpleData name="Line_Name">Warminster Line</SimpleData>
+		<SimpleData name="Longitude">-75.114357</SimpleData>
+		<SimpleData name="On_Street">Davisville Rd</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Willow Grove</SimpleData>
+		<SimpleData name="Stop_ID">90415</SimpleData>
+		<SimpleData name="Street_Add">215 Davisville Rd (off Old York Rd)</SimpleData>
+		<SimpleData name="Zip">19090</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.114357025616,40.1436724238298</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Warminster Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Byberry Rd</SimpleData>
+		<SimpleData name="City">Hatbro</SimpleData>
+		<SimpleData name="County">Bucks</SimpleData>
+		<SimpleData name="Field_1">Warminster Line</SimpleData>
+		<SimpleData name="Latitude">40.175587</SimpleData>
+		<SimpleData name="Line_Name">Warminster Line</SimpleData>
+		<SimpleData name="Longitude">-75.102809</SimpleData>
+		<SimpleData name="On_Street">Penn St</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Hatboro</SimpleData>
+		<SimpleData name="Stop_ID">90416</SimpleData>
+		<SimpleData name="Street_Add">40 S. Penn St</SimpleData>
+		<SimpleData name="Zip">19040</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.1028088670566,40.1755866472746</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Warminster Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Jacksonville Rd</SimpleData>
+		<SimpleData name="City">Warminster</SimpleData>
+		<SimpleData name="County">Bucks</SimpleData>
+		<SimpleData name="Field_1">Warminster Line</SimpleData>
+		<SimpleData name="Latitude">40.195101</SimpleData>
+		<SimpleData name="Line_Name">Warminster Line</SimpleData>
+		<SimpleData name="Longitude">-75.089121</SimpleData>
+		<SimpleData name="On_Street">Station Dr</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Warminster</SimpleData>
+		<SimpleData name="Stop_ID">90417</SimpleData>
+		<SimpleData name="Street_Add">100 Station Dr</SimpleData>
+		<SimpleData name="Zip">18974</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.0891214094299,40.1951014288521</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Media Elwyn Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Middletown Rd</SimpleData>
+		<SimpleData name="City">Media</SimpleData>
+		<SimpleData name="County">Delaware</SimpleData>
+		<SimpleData name="Field_1">Media Elwyn Line</SimpleData>
+		<SimpleData name="Latitude">39.907817</SimpleData>
+		<SimpleData name="Line_Name">Media Elwyn Line</SimpleData>
+		<SimpleData name="Longitude">-75.411187</SimpleData>
+		<SimpleData name="On_Street">Elwyn Rd</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Elwyn</SimpleData>
+		<SimpleData name="Stop_ID">90301</SimpleData>
+		<SimpleData name="Street_Add">149 Elwyn Rd</SimpleData>
+		<SimpleData name="Zip">19063</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.4111873682457,39.9078169607748</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Media Elwyn Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">S. Orange St</SimpleData>
+		<SimpleData name="City">Media</SimpleData>
+		<SimpleData name="County">Delaware</SimpleData>
+		<SimpleData name="Field_1">Media Elwyn Line</SimpleData>
+		<SimpleData name="Latitude">39.914291</SimpleData>
+		<SimpleData name="Line_Name">Media Elwyn Line</SimpleData>
+		<SimpleData name="Longitude">-75.394764</SimpleData>
+		<SimpleData name="On_Street">Media Station Rd</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Media</SimpleData>
+		<SimpleData name="Stop_ID">90302</SimpleData>
+		<SimpleData name="Street_Add">309 Media Station Rd</SimpleData>
+		<SimpleData name="Zip">19063</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.3947641731115,39.9142912268852</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Media Elwyn Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Woodward Rd</SimpleData>
+		<SimpleData name="City">Media</SimpleData>
+		<SimpleData name="County">Delaware</SimpleData>
+		<SimpleData name="Field_1">Media Elwyn Line</SimpleData>
+		<SimpleData name="Latitude">39.905845</SimpleData>
+		<SimpleData name="Line_Name">Media Elwyn Line</SimpleData>
+		<SimpleData name="Longitude">-75.388095</SimpleData>
+		<SimpleData name="On_Street">Manchester Rd</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Moylan-Rose Valley</SimpleData>
+		<SimpleData name="Stop_ID">90303</SimpleData>
+		<SimpleData name="Street_Add">4 Manchester Rd</SimpleData>
+		<SimpleData name="Zip">19063</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.3880950498473,39.9058445580708</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Media Elwyn Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Kershaw Ave</SimpleData>
+		<SimpleData name="City">Wallingford</SimpleData>
+		<SimpleData name="County">Delaware</SimpleData>
+		<SimpleData name="Field_1">Media Elwyn Line</SimpleData>
+		<SimpleData name="Latitude">39.903754</SimpleData>
+		<SimpleData name="Line_Name">Media Elwyn Line</SimpleData>
+		<SimpleData name="Longitude">-75.371713</SimpleData>
+		<SimpleData name="On_Street">E. Possum Hollow Rd</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Wallingford</SimpleData>
+		<SimpleData name="Stop_ID">90304</SimpleData>
+		<SimpleData name="Street_Add">141 E. Possum Hollow Rd</SimpleData>
+		<SimpleData name="Zip">19086</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.3717127781021,39.9037538189196</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Media Elwyn Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">S. Chester Rd</SimpleData>
+		<SimpleData name="City">Swarthmore</SimpleData>
+		<SimpleData name="County">Delaware</SimpleData>
+		<SimpleData name="Field_1">Media Elwyn Line</SimpleData>
+		<SimpleData name="Latitude">39.902297</SimpleData>
+		<SimpleData name="Line_Name">Media Elwyn Line</SimpleData>
+		<SimpleData name="Longitude">-75.351126</SimpleData>
+		<SimpleData name="On_Street">Park Ave</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Swarthmore</SimpleData>
+		<SimpleData name="Stop_ID">90305</SimpleData>
+		<SimpleData name="Street_Add">Chester Rd &amp;amp; Park Ave</SimpleData>
+		<SimpleData name="Zip">19081</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.3511262514373,39.9022966843295</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Media Elwyn Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">S. Morton Ave</SimpleData>
+		<SimpleData name="City">Morton</SimpleData>
+		<SimpleData name="County">Delaware</SimpleData>
+		<SimpleData name="Field_1">Media Elwyn Line</SimpleData>
+		<SimpleData name="Latitude">39.908042</SimpleData>
+		<SimpleData name="Line_Name">Media Elwyn Line</SimpleData>
+		<SimpleData name="Longitude">-75.328338</SimpleData>
+		<SimpleData name="On_Street">Yale Ave</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Morton</SimpleData>
+		<SimpleData name="Stop_ID">90306</SimpleData>
+		<SimpleData name="Street_Add">2 S. Morton Ave</SimpleData>
+		<SimpleData name="Zip">19070</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.3283383388913,39.9080415192681</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Media Elwyn Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">South Ave</SimpleData>
+		<SimpleData name="City">Clifton Heights</SimpleData>
+		<SimpleData name="County">Delaware</SimpleData>
+		<SimpleData name="Field_1">Media Elwyn Line</SimpleData>
+		<SimpleData name="Latitude">39.915742</SimpleData>
+		<SimpleData name="Line_Name">Media Elwyn Line</SimpleData>
+		<SimpleData name="Longitude">-75.309844</SimpleData>
+		<SimpleData name="On_Street">Providence Rd</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Secane</SimpleData>
+		<SimpleData name="Stop_ID">90307</SimpleData>
+		<SimpleData name="Street_Add">1297 Providence Rd</SimpleData>
+		<SimpleData name="Zip">19018</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.3098435354433,39.9157415162206</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Media Elwyn Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Mildred Ave</SimpleData>
+		<SimpleData name="City">Clifton Heights</SimpleData>
+		<SimpleData name="County">Delaware</SimpleData>
+		<SimpleData name="Field_1">Media Elwyn Line</SimpleData>
+		<SimpleData name="Latitude">39.921611</SimpleData>
+		<SimpleData name="Line_Name">Media Elwyn Line</SimpleData>
+		<SimpleData name="Longitude">-75.298513</SimpleData>
+		<SimpleData name="On_Street">S. Oak Ave</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Primos</SimpleData>
+		<SimpleData name="Stop_ID">90308</SimpleData>
+		<SimpleData name="Street_Add">446 S. Oak Ave</SimpleData>
+		<SimpleData name="Zip">19018</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.2985128122111,39.9216107222328</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Media Elwyn Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Madison Rd</SimpleData>
+		<SimpleData name="City">Lansdowne</SimpleData>
+		<SimpleData name="County">Delaware</SimpleData>
+		<SimpleData name="Field_1">Media Elwyn Line</SimpleData>
+		<SimpleData name="Latitude">39.932728</SimpleData>
+		<SimpleData name="Line_Name">Media Elwyn Line</SimpleData>
+		<SimpleData name="Longitude">-75.282157</SimpleData>
+		<SimpleData name="On_Street">Walsh Rd</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Gladstone</SimpleData>
+		<SimpleData name="Stop_ID">90310</SimpleData>
+		<SimpleData name="Street_Add">198 Walsh Rd</SimpleData>
+		<SimpleData name="Zip">19050</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.2821569534419,39.9327282978608</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Media Elwyn Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Scottdale Rd</SimpleData>
+		<SimpleData name="City">Lansdowne</SimpleData>
+		<SimpleData name="County">Delaware</SimpleData>
+		<SimpleData name="Field_1">Media Elwyn Line</SimpleData>
+		<SimpleData name="Latitude">39.937282</SimpleData>
+		<SimpleData name="Line_Name">Media Elwyn Line</SimpleData>
+		<SimpleData name="Longitude">-75.271569</SimpleData>
+		<SimpleData name="On_Street">S. Lansdowne Ave</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Lansdowne</SimpleData>
+		<SimpleData name="Stop_ID">90311</SimpleData>
+		<SimpleData name="Street_Add">45 S. Lansdowne Ave</SimpleData>
+		<SimpleData name="Zip">19050</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.2715688846517,39.9372816487763</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Media Elwyn Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Penn St</SimpleData>
+		<SimpleData name="City">Lansdowne</SimpleData>
+		<SimpleData name="County">Delaware</SimpleData>
+		<SimpleData name="Field_1">Media Elwyn Line</SimpleData>
+		<SimpleData name="Latitude">39.939728</SimpleData>
+		<SimpleData name="Line_Name">Media Elwyn Line</SimpleData>
+		<SimpleData name="Longitude">-75.255777</SimpleData>
+		<SimpleData name="On_Street">S. Church Ln</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Fernwood-Yeadon</SimpleData>
+		<SimpleData name="Stop_ID">90312</SimpleData>
+		<SimpleData name="Street_Add">413 S. Church Ln</SimpleData>
+		<SimpleData name="Zip">19050</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.2557774685219,39.9397279326244</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Media Elwyn Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Fernwood St</SimpleData>
+		<SimpleData name="City">Philadelphia</SimpleData>
+		<SimpleData name="County">Delaware</SimpleData>
+		<SimpleData name="Field_1">Media Elwyn Line</SimpleData>
+		<SimpleData name="Latitude">39.944902</SimpleData>
+		<SimpleData name="Line_Name">Media Elwyn Line</SimpleData>
+		<SimpleData name="Longitude">-75.238364</SimpleData>
+		<SimpleData name="On_Street">58th St</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Angora</SimpleData>
+		<SimpleData name="Stop_ID">90313</SimpleData>
+		<SimpleData name="Street_Add">1099 S. 58th St</SimpleData>
+		<SimpleData name="Zip">19143</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.2383639541077,39.9449021999491</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Media Elwyn Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Chester Ave</SimpleData>
+		<SimpleData name="City">Philadelphia</SimpleData>
+		<SimpleData name="County">Philadelphia</SimpleData>
+		<SimpleData name="Field_1">Media Elwyn Line</SimpleData>
+		<SimpleData name="Latitude">39.943601</SimpleData>
+		<SimpleData name="Line_Name">Media Elwyn Line</SimpleData>
+		<SimpleData name="Longitude">-75.216444</SimpleData>
+		<SimpleData name="On_Street">49th St</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">49th Street</SimpleData>
+		<SimpleData name="Stop_ID">90314</SimpleData>
+		<SimpleData name="Street_Add">49th St &amp;amp; Chester Ave</SimpleData>
+		<SimpleData name="Zip">19143</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.2164436368531,39.9436014359252</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Joint</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">South St</SimpleData>
+		<SimpleData name="City">Philadaelphia</SimpleData>
+		<SimpleData name="County">Philadelphia</SimpleData>
+		<SimpleData name="Field_1">Joint</SimpleData>
+		<SimpleData name="Latitude">39.948161</SimpleData>
+		<SimpleData name="Line_Name">Joint</SimpleData>
+		<SimpleData name="Longitude">-75.189973</SimpleData>
+		<SimpleData name="On_Street">Convention Blvd</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">University City</SimpleData>
+		<SimpleData name="Stop_ID">90406</SimpleData>
+		<SimpleData name="Street_Add">3149 Convention Blvd</SimpleData>
+		<SimpleData name="Zip">19104</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.1899725564586,39.9481607410895</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Joint</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Market St</SimpleData>
+		<SimpleData name="City">Philadaelphia</SimpleData>
+		<SimpleData name="County">Philadelphia</SimpleData>
+		<SimpleData name="Field_1">Joint</SimpleData>
+		<SimpleData name="Latitude">39.956516</SimpleData>
+		<SimpleData name="Line_Name">Joint</SimpleData>
+		<SimpleData name="Longitude">-75.181806</SimpleData>
+		<SimpleData name="On_Street">30th St</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">30th Street Station</SimpleData>
+		<SimpleData name="Stop_ID">90004</SimpleData>
+		<SimpleData name="Street_Add">30th St &amp;amp; Market St</SimpleData>
+		<SimpleData name="Zip">19104</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.1818056107916,39.9565162366485</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>West Trenton Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Mill Rd</SimpleData>
+		<SimpleData name="City">Jenkintown</SimpleData>
+		<SimpleData name="County">Montgomery</SimpleData>
+		<SimpleData name="Field_1">West Trenton Line</SimpleData>
+		<SimpleData name="Latitude">40.111321</SimpleData>
+		<SimpleData name="Line_Name">West Trenton Line</SimpleData>
+		<SimpleData name="Longitude">-75.092485</SimpleData>
+		<SimpleData name="On_Street">Old Valley Rd</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Meadowbrook</SimpleData>
+		<SimpleData name="Stop_ID">90317</SimpleData>
+		<SimpleData name="Street_Add">1430 Old Valley Rd</SimpleData>
+		<SimpleData name="Zip">19046</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.0924850428178,40.1113213080088</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>West Trenton Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Welsh Rd</SimpleData>
+		<SimpleData name="City">Huntingdon Valley</SimpleData>
+		<SimpleData name="County">Montgomery</SimpleData>
+		<SimpleData name="Field_1">West Trenton Line</SimpleData>
+		<SimpleData name="Latitude">40.116495</SimpleData>
+		<SimpleData name="Line_Name">West Trenton Line</SimpleData>
+		<SimpleData name="Longitude">-75.068629</SimpleData>
+		<SimpleData name="On_Street">Station Ave</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Bethayres</SimpleData>
+		<SimpleData name="Stop_ID">90318</SimpleData>
+		<SimpleData name="Street_Add">500 Station Ave</SimpleData>
+		<SimpleData name="Zip">19006</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.0686287191579,40.1164954484568</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>West Trenton Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Philmont Ave</SimpleData>
+		<SimpleData name="City">Philadelphia</SimpleData>
+		<SimpleData name="County">Philadelphia</SimpleData>
+		<SimpleData name="Field_1">West Trenton Line</SimpleData>
+		<SimpleData name="Latitude">40.127829</SimpleData>
+		<SimpleData name="Line_Name">West Trenton Line</SimpleData>
+		<SimpleData name="Longitude">-75.020925</SimpleData>
+		<SimpleData name="On_Street">Byberry Rd</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Forest Hills</SimpleData>
+		<SimpleData name="Stop_ID">90320</SimpleData>
+		<SimpleData name="Street_Add">299 Byberry Rd</SimpleData>
+		<SimpleData name="Zip">19116</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.0209251129404,40.1278290043227</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>West Trenton Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Ridge Ave</SimpleData>
+		<SimpleData name="City">Trevose</SimpleData>
+		<SimpleData name="County">Bucks</SimpleData>
+		<SimpleData name="Field_1">West Trenton Line</SimpleData>
+		<SimpleData name="Latitude">40.140084</SimpleData>
+		<SimpleData name="Line_Name">West Trenton Line</SimpleData>
+		<SimpleData name="Longitude">-74.982906</SimpleData>
+		<SimpleData name="On_Street">Boundbrook Ave</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Trevose</SimpleData>
+		<SimpleData name="Stop_ID">90322</SimpleData>
+		<SimpleData name="Street_Add">1100 Boundbrook Ave</SimpleData>
+		<SimpleData name="Zip">19053</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.9829061437809,40.1400842701349</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>West Trenton Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Grove Ave</SimpleData>
+		<SimpleData name="City">Trevose</SimpleData>
+		<SimpleData name="County">Bucks</SimpleData>
+		<SimpleData name="Field_1">West Trenton Line</SimpleData>
+		<SimpleData name="Latitude">40.146798</SimpleData>
+		<SimpleData name="Line_Name">West Trenton Line</SimpleData>
+		<SimpleData name="Longitude">-74.962328</SimpleData>
+		<SimpleData name="On_Street">E. Bristol Rd</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Neshaminy Falls</SimpleData>
+		<SimpleData name="Stop_ID">90323</SimpleData>
+		<SimpleData name="Street_Add">4255 E. Bristol Rd</SimpleData>
+		<SimpleData name="Zip">19053</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.962327975427,40.1467978797561</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>West Trenton Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Bellevue Ave</SimpleData>
+		<SimpleData name="City">Langhorne</SimpleData>
+		<SimpleData name="County">Bucks</SimpleData>
+		<SimpleData name="Field_1">West Trenton Line</SimpleData>
+		<SimpleData name="Latitude">40.160757</SimpleData>
+		<SimpleData name="Line_Name">West Trenton Line</SimpleData>
+		<SimpleData name="Longitude">-74.912752</SimpleData>
+		<SimpleData name="On_Street">Comly Ave</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Langhorne</SimpleData>
+		<SimpleData name="Stop_ID">90324</SimpleData>
+		<SimpleData name="Street_Add">137 Comly Ave</SimpleData>
+		<SimpleData name="Zip">19047</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.9127520611049,40.1607567002994</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>West Trenton Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Butternut Ln</SimpleData>
+		<SimpleData name="City">Langhorne</SimpleData>
+		<SimpleData name="County">Bucks</SimpleData>
+		<SimpleData name="Field_1">West Trenton Line</SimpleData>
+		<SimpleData name="Latitude">40.190859</SimpleData>
+		<SimpleData name="Line_Name">West Trenton Line</SimpleData>
+		<SimpleData name="Longitude">-74.890857</SimpleData>
+		<SimpleData name="On_Street">Woodbourne Rd</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Woodbourne</SimpleData>
+		<SimpleData name="Stop_ID">90325</SimpleData>
+		<SimpleData name="Street_Add">903 Woodbourne Rd</SimpleData>
+		<SimpleData name="Zip">19047</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.8908570763659,40.1908589941507</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>West Trenton Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">S. Main St</SimpleData>
+		<SimpleData name="City">Morrisville</SimpleData>
+		<SimpleData name="County">Bucks</SimpleData>
+		<SimpleData name="Field_1">West Trenton Line</SimpleData>
+		<SimpleData name="Latitude">40.235056</SimpleData>
+		<SimpleData name="Line_Name">West Trenton Line</SimpleData>
+		<SimpleData name="Longitude">-74.830946</SimpleData>
+		<SimpleData name="On_Street">Reading Ave</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Yardley</SimpleData>
+		<SimpleData name="Stop_ID">90326</SimpleData>
+		<SimpleData name="Street_Add">13 Reading Ave</SimpleData>
+		<SimpleData name="Zip">19067</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.8309456073116,40.2350557981346</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>West Trenton Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Grand Ave</SimpleData>
+		<SimpleData name="City">Trenton</SimpleData>
+		<SimpleData name="County">Trenton</SimpleData>
+		<SimpleData name="Field_1">West Trenton Line</SimpleData>
+		<SimpleData name="Latitude">40.257309</SimpleData>
+		<SimpleData name="Line_Name">West Trenton Line</SimpleData>
+		<SimpleData name="Longitude">-74.815506</SimpleData>
+		<SimpleData name="On_Street">Railroad Ave</SimpleData>
+		<SimpleData name="State">NJ</SimpleData>
+		<SimpleData name="Station_Na">West Trenton</SimpleData>
+		<SimpleData name="Stop_ID">90327</SimpleData>
+		<SimpleData name="Street_Add">3 Railroad Ave</SimpleData>
+		<SimpleData name="Zip">08628</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.8155061757672,40.2573093316828</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paoli Thorndale Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Hazelwood Ave</SimpleData>
+		<SimpleData name="City">Thorndale</SimpleData>
+		<SimpleData name="County">Chester</SimpleData>
+		<SimpleData name="Field_1">Paoli Thorndale Line</SimpleData>
+		<SimpleData name="Latitude">39.992691</SimpleData>
+		<SimpleData name="Line_Name">Paoli Thorndale Line</SimpleData>
+		<SimpleData name="Longitude">-75.762733</SimpleData>
+		<SimpleData name="On_Street">S. Bailey Rd</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Thorndale</SimpleData>
+		<SimpleData name="Stop_ID">90501</SimpleData>
+		<SimpleData name="Street_Add">201 S. Bailey Rd</SimpleData>
+		<SimpleData name="Zip">19372</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.7627328121433,39.9926907049975</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paoli Thorndale Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">St. Joseph Ln</SimpleData>
+		<SimpleData name="City">Downingtown</SimpleData>
+		<SimpleData name="County">Chester</SimpleData>
+		<SimpleData name="Field_1">Paoli Thorndale Line</SimpleData>
+		<SimpleData name="Latitude">40.002079</SimpleData>
+		<SimpleData name="Line_Name">Paoli Thorndale Line</SimpleData>
+		<SimpleData name="Longitude">-75.710499</SimpleData>
+		<SimpleData name="On_Street">Viaduct Ave</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Downingtown</SimpleData>
+		<SimpleData name="Stop_ID">90502</SimpleData>
+		<SimpleData name="Street_Add">159 Viaduct Ave</SimpleData>
+		<SimpleData name="Zip">19335</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.7104985283982,40.0020792657641</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paoli Thorndale Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">S. Whitford Rd</SimpleData>
+		<SimpleData name="City">Exton</SimpleData>
+		<SimpleData name="County">Chester</SimpleData>
+		<SimpleData name="Field_1">Paoli Thorndale Line</SimpleData>
+		<SimpleData name="Latitude">40.014744</SimpleData>
+		<SimpleData name="Line_Name">Paoli Thorndale Line</SimpleData>
+		<SimpleData name="Longitude">-75.638359</SimpleData>
+		<SimpleData name="On_Street">Spackman Ln</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Whitford</SimpleData>
+		<SimpleData name="Stop_ID">90503</SimpleData>
+		<SimpleData name="Street_Add">401 Spackman Ln</SimpleData>
+		<SimpleData name="Zip">19341</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.6383594410554,40.0147439078386</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paoli Thorndale Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">King St</SimpleData>
+		<SimpleData name="City">Malvern</SimpleData>
+		<SimpleData name="County">Chester</SimpleData>
+		<SimpleData name="Field_1">Paoli Thorndale Line</SimpleData>
+		<SimpleData name="Latitude">40.036439</SimpleData>
+		<SimpleData name="Line_Name">Paoli Thorndale Line</SimpleData>
+		<SimpleData name="Longitude">-75.515581</SimpleData>
+		<SimpleData name="On_Street">N. Warren Ave</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Malvern</SimpleData>
+		<SimpleData name="Stop_ID">90505</SimpleData>
+		<SimpleData name="Street_Add">15 N. Warren Ave (near King St)</SimpleData>
+		<SimpleData name="Zip">19355</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.5155805397239,40.0364389643543</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paoli Thorndale Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Lincoln Hwy</SimpleData>
+		<SimpleData name="City">Paoli</SimpleData>
+		<SimpleData name="County">Chester</SimpleData>
+		<SimpleData name="Field_1">Paoli Thorndale Line</SimpleData>
+		<SimpleData name="Latitude">40.042959</SimpleData>
+		<SimpleData name="Line_Name">Paoli Thorndale Line</SimpleData>
+		<SimpleData name="Longitude">-75.48373</SimpleData>
+		<SimpleData name="On_Street">N. Valley Rd</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Paoli</SimpleData>
+		<SimpleData name="Stop_ID">90506</SimpleData>
+		<SimpleData name="Street_Add">13 N. Valley Rd (near Lincoln Highway)</SimpleData>
+		<SimpleData name="Zip">19301</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.4837299932453,40.0429593185957</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paoli Thorndale Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Glenn Ave</SimpleData>
+		<SimpleData name="City">Berwyn</SimpleData>
+		<SimpleData name="County">Chester</SimpleData>
+		<SimpleData name="Field_1">Paoli Thorndale Line</SimpleData>
+		<SimpleData name="Latitude">40.04295</SimpleData>
+		<SimpleData name="Line_Name">Paoli Thorndale Line</SimpleData>
+		<SimpleData name="Longitude">-75.460646</SimpleData>
+		<SimpleData name="On_Street">Lancaster Ave</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Daylesford</SimpleData>
+		<SimpleData name="Stop_ID">90507</SimpleData>
+		<SimpleData name="Street_Add">1301 Lancaster Ave</SimpleData>
+		<SimpleData name="Zip">19312</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.4606455091465,40.0429500033426</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paoli Thorndale Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Main Ave</SimpleData>
+		<SimpleData name="City">Berwyn</SimpleData>
+		<SimpleData name="County">Chester</SimpleData>
+		<SimpleData name="Field_1">Paoli Thorndale Line</SimpleData>
+		<SimpleData name="Latitude">40.048088</SimpleData>
+		<SimpleData name="Line_Name">Paoli Thorndale Line</SimpleData>
+		<SimpleData name="Longitude">-75.442473</SimpleData>
+		<SimpleData name="On_Street">E. Lancaster Ave</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Berwyn</SimpleData>
+		<SimpleData name="Stop_ID">90508</SimpleData>
+		<SimpleData name="Street_Add">654 E. Lancaster Ave</SimpleData>
+		<SimpleData name="Zip">19312</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.4424729365611,40.0480881886819</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paoli Thorndale Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Strafford Ave</SimpleData>
+		<SimpleData name="City">Wayne</SimpleData>
+		<SimpleData name="County">Chester</SimpleData>
+		<SimpleData name="Field_1">Paoli Thorndale Line</SimpleData>
+		<SimpleData name="Latitude">40.049695</SimpleData>
+		<SimpleData name="Line_Name">Paoli Thorndale Line</SimpleData>
+		<SimpleData name="Longitude">-75.403766</SimpleData>
+		<SimpleData name="On_Street">Old Eagle School Rd</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Strafford</SimpleData>
+		<SimpleData name="Stop_ID">90510</SimpleData>
+		<SimpleData name="Street_Add">97 Old Eagle School Rd</SimpleData>
+		<SimpleData name="Zip">19087</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.4037656251841,40.0496953776041</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paoli Thorndale Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Station Rd</SimpleData>
+		<SimpleData name="City">Wayne</SimpleData>
+		<SimpleData name="County">Delaware</SimpleData>
+		<SimpleData name="Field_1">Paoli Thorndale Line</SimpleData>
+		<SimpleData name="Latitude">40.045862</SimpleData>
+		<SimpleData name="Line_Name">Paoli Thorndale Line</SimpleData>
+		<SimpleData name="Longitude">-75.387329</SimpleData>
+		<SimpleData name="On_Street">N. Wayne Ave</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Wayne</SimpleData>
+		<SimpleData name="Stop_ID">90511</SimpleData>
+		<SimpleData name="Street_Add">145 N. Wayne Ave</SimpleData>
+		<SimpleData name="Zip">19087</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.3873288254961,40.0458616671118</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paoli Thorndale Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Randnor Chester Rd</SimpleData>
+		<SimpleData name="City">Wayne</SimpleData>
+		<SimpleData name="County">Delaware</SimpleData>
+		<SimpleData name="Field_1">Paoli Thorndale Line</SimpleData>
+		<SimpleData name="Latitude">40.044734</SimpleData>
+		<SimpleData name="Line_Name">Paoli Thorndale Line</SimpleData>
+		<SimpleData name="Longitude">-75.359415</SimpleData>
+		<SimpleData name="On_Street">King of Prussia Rd</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Radnor</SimpleData>
+		<SimpleData name="Stop_ID">90513</SimpleData>
+		<SimpleData name="Street_Add">291 King of Prussia Rd</SimpleData>
+		<SimpleData name="Zip">19087</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.3594148308766,40.0447341662907</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paoli Thorndale Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Montrose Ave</SimpleData>
+		<SimpleData name="City">Bryn Mawr</SimpleData>
+		<SimpleData name="County">Philadelphia</SimpleData>
+		<SimpleData name="Field_1">Paoli Thorndale Line</SimpleData>
+		<SimpleData name="Latitude">40.028266</SimpleData>
+		<SimpleData name="Line_Name">Paoli Thorndale Line</SimpleData>
+		<SimpleData name="Longitude">-75.327273</SimpleData>
+		<SimpleData name="On_Street">Airdale Rd</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Rosemont</SimpleData>
+		<SimpleData name="Stop_ID">90515</SimpleData>
+		<SimpleData name="Street_Add">43 Airdale Rd</SimpleData>
+		<SimpleData name="Zip">19010</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.3272726897902,40.0282660949413</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paoli Thorndale Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Morris Ave</SimpleData>
+		<SimpleData name="City">Bryn Mawr</SimpleData>
+		<SimpleData name="County">Montgomery</SimpleData>
+		<SimpleData name="Field_1">Paoli Thorndale Line</SimpleData>
+		<SimpleData name="Latitude">40.021955</SimpleData>
+		<SimpleData name="Line_Name">Paoli Thorndale Line</SimpleData>
+		<SimpleData name="Longitude">-75.315946</SimpleData>
+		<SimpleData name="On_Street">N. Bryn Mawr Ave</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Bryn Mawr</SimpleData>
+		<SimpleData name="Stop_ID">90516</SimpleData>
+		<SimpleData name="Street_Add">54 N. Bryn Mawr Ave</SimpleData>
+		<SimpleData name="Zip">19010</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.3159455824426,40.0219545970381</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paoli Thorndale Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Penn Rd</SimpleData>
+		<SimpleData name="City">Wynnewood</SimpleData>
+		<SimpleData name="County">Montgomery</SimpleData>
+		<SimpleData name="Field_1">Paoli Thorndale Line</SimpleData>
+		<SimpleData name="Latitude">40.002831</SimpleData>
+		<SimpleData name="Line_Name">Paoli Thorndale Line</SimpleData>
+		<SimpleData name="Longitude">-75.273113</SimpleData>
+		<SimpleData name="On_Street">E. Wynnewood Rd</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Wynnewood</SimpleData>
+		<SimpleData name="Stop_ID">90519</SimpleData>
+		<SimpleData name="Street_Add">67 E. Wynnewood Rd</SimpleData>
+		<SimpleData name="Zip">19096</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.2731128170038,40.0028310296401</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paoli Thorndale Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">N. Narberth Ave</SimpleData>
+		<SimpleData name="City">Narbeth</SimpleData>
+		<SimpleData name="County">Montgomery</SimpleData>
+		<SimpleData name="Field_1">Paoli Thorndale Line</SimpleData>
+		<SimpleData name="Latitude">40.004869</SimpleData>
+		<SimpleData name="Line_Name">Paoli Thorndale Line</SimpleData>
+		<SimpleData name="Longitude">-75.261538</SimpleData>
+		<SimpleData name="On_Street">Elmwood Ave</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Narbeth</SimpleData>
+		<SimpleData name="Stop_ID">90520</SimpleData>
+		<SimpleData name="Street_Add">211 Elmwood Ave</SimpleData>
+		<SimpleData name="Zip">19072</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.2615383615073,40.0048692278488</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paoli Thorndale Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Hazelhurst Rd</SimpleData>
+		<SimpleData name="City">Merion Station</SimpleData>
+		<SimpleData name="County">Montgomery</SimpleData>
+		<SimpleData name="Field_1">Paoli Thorndale Line</SimpleData>
+		<SimpleData name="Latitude">39.997552</SimpleData>
+		<SimpleData name="Line_Name">Paoli Thorndale Line</SimpleData>
+		<SimpleData name="Longitude">-75.251446</SimpleData>
+		<SimpleData name="On_Street">Idris Rd</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Merion</SimpleData>
+		<SimpleData name="Stop_ID">90521</SimpleData>
+		<SimpleData name="Street_Add">293 Idris Rd</SimpleData>
+		<SimpleData name="Zip">19066</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.2514458342167,39.9975522858847</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paoli Thorndale Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">City Ave</SimpleData>
+		<SimpleData name="City">Merion Station</SimpleData>
+		<SimpleData name="County">Philadelphia</SimpleData>
+		<SimpleData name="Field_1">Paoli Thorndale Line</SimpleData>
+		<SimpleData name="Latitude">39.989951</SimpleData>
+		<SimpleData name="Line_Name">Paoli Thorndale Line</SimpleData>
+		<SimpleData name="Longitude">-75.24986</SimpleData>
+		<SimpleData name="On_Street">63rd St</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Overbrook</SimpleData>
+		<SimpleData name="Stop_ID">90522</SimpleData>
+		<SimpleData name="Street_Add">2195 N. 63rd St (off City Ave)</SimpleData>
+		<SimpleData name="Zip">19066</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.2498598250196,39.9899509159849</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Joint</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">10th St</SimpleData>
+		<SimpleData name="City">Philadelphia</SimpleData>
+		<SimpleData name="County">Philadelphia</SimpleData>
+		<SimpleData name="Field_1">Joint</SimpleData>
+		<SimpleData name="Latitude">40.040689</SimpleData>
+		<SimpleData name="Line_Name">Joint</SimpleData>
+		<SimpleData name="Longitude">-75.13482</SimpleData>
+		<SimpleData name="On_Street">Nedro Ave</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Fern Rock T.C.</SimpleData>
+		<SimpleData name="Stop_ID">90407</SimpleData>
+		<SimpleData name="Street_Add">900 Nedro Ave</SimpleData>
+		<SimpleData name="Zip">19141</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.1348200312605,40.0406892578293</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Joint</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Glenside Ave</SimpleData>
+		<SimpleData name="City">Jenkintown</SimpleData>
+		<SimpleData name="County">Montogomery</SimpleData>
+		<SimpleData name="Field_1">Joint</SimpleData>
+		<SimpleData name="Latitude">40.092712</SimpleData>
+		<SimpleData name="Line_Name">Joint</SimpleData>
+		<SimpleData name="Longitude">-75.13754</SimpleData>
+		<SimpleData name="On_Street">Greenwood Ave</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Jenkintown-Wyncote</SimpleData>
+		<SimpleData name="Stop_ID">90410</SimpleData>
+		<SimpleData name="Street_Add">2 Greenwood Ave</SimpleData>
+		<SimpleData name="Zip">19046</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.1375398669691,40.0927122582349</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Joint</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">S. Easton Rd</SimpleData>
+		<SimpleData name="City">Glenside</SimpleData>
+		<SimpleData name="County">Montogomery</SimpleData>
+		<SimpleData name="Field_1">Joint</SimpleData>
+		<SimpleData name="Latitude">40.101346</SimpleData>
+		<SimpleData name="Line_Name">Joint</SimpleData>
+		<SimpleData name="Longitude">-75.153692</SimpleData>
+		<SimpleData name="On_Street">W. Glenside Ave</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Glenside</SimpleData>
+		<SimpleData name="Stop_ID">90411</SimpleData>
+		<SimpleData name="Street_Add">49 W. Glenside Ave</SimpleData>
+		<SimpleData name="Zip">19038</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.1536916880459,40.1013458718837</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lansdale Doylestown Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">N. Hills Ave</SimpleData>
+		<SimpleData name="City">Glenside</SimpleData>
+		<SimpleData name="County">Montgomery</SimpleData>
+		<SimpleData name="Field_1">Lansdale Doylestown Line</SimpleData>
+		<SimpleData name="Latitude">40.112042</SimpleData>
+		<SimpleData name="Line_Name">Lansdale Doylestown Line</SimpleData>
+		<SimpleData name="Longitude">-75.169437</SimpleData>
+		<SimpleData name="On_Street">Station Ave</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">North Hills</SimpleData>
+		<SimpleData name="Stop_ID">90523</SimpleData>
+		<SimpleData name="Street_Add">85 Station Ave</SimpleData>
+		<SimpleData name="Zip">19038</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.1694372465842,40.1120421318291</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lansdale Doylestown Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Bridge St</SimpleData>
+		<SimpleData name="City">Oreland</SimpleData>
+		<SimpleData name="County">Montgomery</SimpleData>
+		<SimpleData name="Field_1">Lansdale Doylestown Line</SimpleData>
+		<SimpleData name="Latitude">40.11821</SimpleData>
+		<SimpleData name="Line_Name">Lansdale Doylestown Line</SimpleData>
+		<SimpleData name="Longitude">-75.183854</SimpleData>
+		<SimpleData name="On_Street">Bruce Rd</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Oreland</SimpleData>
+		<SimpleData name="Stop_ID">90524</SimpleData>
+		<SimpleData name="Street_Add">1502 Bruce Rd</SimpleData>
+		<SimpleData name="Zip">19075</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.1838544682391,40.1182101503927</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lansdale Doylestown Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">S. Bethlehem Pike</SimpleData>
+		<SimpleData name="City">Fort Washington</SimpleData>
+		<SimpleData name="County">Montgomery</SimpleData>
+		<SimpleData name="Field_1">Lansdale Doylestown Line</SimpleData>
+		<SimpleData name="Latitude">40.135337</SimpleData>
+		<SimpleData name="Line_Name">Lansdale Doylestown Line</SimpleData>
+		<SimpleData name="Longitude">-75.211589</SimpleData>
+		<SimpleData name="On_Street">Station Ave</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Fort Washington</SimpleData>
+		<SimpleData name="Stop_ID">90525</SimpleData>
+		<SimpleData name="Street_Add">7299 Station Ave</SimpleData>
+		<SimpleData name="Zip">19034</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.2115892524894,40.1353366664513</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lansdale Doylestown Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">W. Maple St</SimpleData>
+		<SimpleData name="City">Ambler</SimpleData>
+		<SimpleData name="County">Montgomery</SimpleData>
+		<SimpleData name="Field_1">Lansdale Doylestown Line</SimpleData>
+		<SimpleData name="Latitude">40.152811</SimpleData>
+		<SimpleData name="Line_Name">Lansdale Doylestown Line</SimpleData>
+		<SimpleData name="Longitude">-75.224335</SimpleData>
+		<SimpleData name="On_Street">Butler Ave</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Ambler</SimpleData>
+		<SimpleData name="Stop_ID">90526</SimpleData>
+		<SimpleData name="Street_Add">35 W. Butler Ave</SimpleData>
+		<SimpleData name="Zip">19002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.2243346695616,40.1528107506241</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lansdale Doylestown Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Old Penllyn Pike</SimpleData>
+		<SimpleData name="City">Blue Bell</SimpleData>
+		<SimpleData name="County">Montgomery</SimpleData>
+		<SimpleData name="Field_1">Lansdale Doylestown Line</SimpleData>
+		<SimpleData name="Latitude">40.169724</SimpleData>
+		<SimpleData name="Line_Name">Lansdale Doylestown Line</SimpleData>
+		<SimpleData name="Longitude">-75.243961</SimpleData>
+		<SimpleData name="On_Street">Pershing Rd</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Penllyn</SimpleData>
+		<SimpleData name="Stop_ID">90527</SimpleData>
+		<SimpleData name="Street_Add">908 Pershing Rd</SimpleData>
+		<SimpleData name="Zip">19422</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.2439614540372,40.169724160709</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lansdale Doylestown Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Railroad Crossing</SimpleData>
+		<SimpleData name="City">Ambler</SimpleData>
+		<SimpleData name="County">Montgomery</SimpleData>
+		<SimpleData name="Field_1">Lansdale Doylestown Line</SimpleData>
+		<SimpleData name="Latitude">40.184801</SimpleData>
+		<SimpleData name="Line_Name">Lansdale Doylestown Line</SimpleData>
+		<SimpleData name="Longitude">-75.256914</SimpleData>
+		<SimpleData name="On_Street">Plymouth Rd</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Gwynedd Valley</SimpleData>
+		<SimpleData name="Stop_ID">90528</SimpleData>
+		<SimpleData name="Street_Add">521 Plymouth Rd</SimpleData>
+		<SimpleData name="Zip">19002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.2569135223825,40.1848013247587</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lansdale Doylestown Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Wissahickon Ave</SimpleData>
+		<SimpleData name="City">North Wales</SimpleData>
+		<SimpleData name="County">Montgomery</SimpleData>
+		<SimpleData name="Field_1">Lansdale Doylestown Line</SimpleData>
+		<SimpleData name="Latitude">40.214353</SimpleData>
+		<SimpleData name="Line_Name">Lansdale Doylestown Line</SimpleData>
+		<SimpleData name="Longitude">-75.277252</SimpleData>
+		<SimpleData name="On_Street">Beaver St</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">North Wales</SimpleData>
+		<SimpleData name="Stop_ID">90529</SimpleData>
+		<SimpleData name="Street_Add">605 Beaver St</SimpleData>
+		<SimpleData name="Zip">19454</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.2772523305225,40.214352573838</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lansdale Doylestown Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Pennbrook Pkwy</SimpleData>
+		<SimpleData name="City">Landsdale</SimpleData>
+		<SimpleData name="County">Montgomery</SimpleData>
+		<SimpleData name="Field_1">Lansdale Doylestown Line</SimpleData>
+		<SimpleData name="Latitude">40.230303</SimpleData>
+		<SimpleData name="Line_Name">Lansdale Doylestown Line</SimpleData>
+		<SimpleData name="Longitude">-75.281766</SimpleData>
+		<SimpleData name="On_Street">Church Rd</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Pennbrook</SimpleData>
+		<SimpleData name="Stop_ID">90530</SimpleData>
+		<SimpleData name="Street_Add">1114 Church Rd</SimpleData>
+		<SimpleData name="Zip">19446</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.2817656531489,40.2303034557901</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lansdale Doylestown Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Walnut St</SimpleData>
+		<SimpleData name="City">Landsdale</SimpleData>
+		<SimpleData name="County">Montgomery</SimpleData>
+		<SimpleData name="Field_1">Lansdale Doylestown Line</SimpleData>
+		<SimpleData name="Latitude">40.242908</SimpleData>
+		<SimpleData name="Line_Name">Lansdale Doylestown Line</SimpleData>
+		<SimpleData name="Longitude">-75.285231</SimpleData>
+		<SimpleData name="On_Street">W. Main St</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Lansdale</SimpleData>
+		<SimpleData name="Stop_ID">90531</SimpleData>
+		<SimpleData name="Street_Add">80 W. Main St</SimpleData>
+		<SimpleData name="Zip">19446</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.2852312945403,40.2429077571203</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lansdale Doylestown Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Walnut St</SimpleData>
+		<SimpleData name="City">Landsdale</SimpleData>
+		<SimpleData name="County">Montgomery</SimpleData>
+		<SimpleData name="Field_1">Lansdale Doylestown Line</SimpleData>
+		<SimpleData name="Latitude">40.259504</SimpleData>
+		<SimpleData name="Line_Name">Lansdale Doylestown Line</SimpleData>
+		<SimpleData name="Longitude">-75.266311</SimpleData>
+		<SimpleData name="On_Street">Cowpath Rd</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Fortuna</SimpleData>
+		<SimpleData name="Stop_ID">90532</SimpleData>
+		<SimpleData name="Street_Add">101 Cowpath Rd</SimpleData>
+		<SimpleData name="Zip">19446</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.2663110426566,40.2595040107067</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lansdale Doylestown Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Walnut St</SimpleData>
+		<SimpleData name="City">Colmar</SimpleData>
+		<SimpleData name="County">Montgomery</SimpleData>
+		<SimpleData name="Field_1">Lansdale Doylestown Line</SimpleData>
+		<SimpleData name="Latitude">40.268479</SimpleData>
+		<SimpleData name="Line_Name">Lansdale Doylestown Line</SimpleData>
+		<SimpleData name="Longitude">-75.254107</SimpleData>
+		<SimpleData name="On_Street">Bethlehem Pike</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Colmar</SimpleData>
+		<SimpleData name="Stop_ID">90533</SimpleData>
+		<SimpleData name="Street_Add">Bethlehem Pk &amp;amp; Walnut St</SimpleData>
+		<SimpleData name="Zip">18915</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.2541065797807,40.2684786046096</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lansdale Doylestown Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Main St</SimpleData>
+		<SimpleData name="City">Chalfont</SimpleData>
+		<SimpleData name="County">Bucks</SimpleData>
+		<SimpleData name="Field_1">Lansdale Doylestown Line</SimpleData>
+		<SimpleData name="Latitude">40.287716</SimpleData>
+		<SimpleData name="Line_Name">Lansdale Doylestown Line</SimpleData>
+		<SimpleData name="Longitude">-75.210193</SimpleData>
+		<SimpleData name="On_Street">Sunset Ave</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Chalfont</SimpleData>
+		<SimpleData name="Stop_ID">90535</SimpleData>
+		<SimpleData name="Street_Add">13 Sunset Ave</SimpleData>
+		<SimpleData name="Zip">18914</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.2101933884247,40.287716029401</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lansdale Doylestown Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Mathews Ave</SimpleData>
+		<SimpleData name="City">Doylestown</SimpleData>
+		<SimpleData name="County">Bucks</SimpleData>
+		<SimpleData name="Field_1">Lansdale Doylestown Line</SimpleData>
+		<SimpleData name="Latitude">40.297484</SimpleData>
+		<SimpleData name="Line_Name">Lansdale Doylestown Line</SimpleData>
+		<SimpleData name="Longitude">-75.179665</SimpleData>
+		<SimpleData name="On_Street">S. Tamenend Ave</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">New Britain</SimpleData>
+		<SimpleData name="Stop_ID">90536</SimpleData>
+		<SimpleData name="Street_Add">Tamenend &amp;amp; Matthews Aves</SimpleData>
+		<SimpleData name="Zip">18901</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.179664659614,40.2974836771081</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lansdale Doylestown Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Del Val College Campus</SimpleData>
+		<SimpleData name="City">Doylestown</SimpleData>
+		<SimpleData name="County">Bucks</SimpleData>
+		<SimpleData name="Field_1">Lansdale Doylestown Line</SimpleData>
+		<SimpleData name="Latitude">40.297241</SimpleData>
+		<SimpleData name="Line_Name">Lansdale Doylestown Line</SimpleData>
+		<SimpleData name="Longitude">-75.161795</SimpleData>
+		<SimpleData name="On_Street">E. Butler Ave</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Delaware Valley College</SimpleData>
+		<SimpleData name="Stop_ID">90537</SimpleData>
+		<SimpleData name="Street_Add">700 E. Butler Ave (on campus)</SimpleData>
+		<SimpleData name="Zip">18901</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.1617949708806,40.2972408917608</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lansdale Doylestown Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Bridge st</SimpleData>
+		<SimpleData name="City">Doylestown</SimpleData>
+		<SimpleData name="County">Bucks</SimpleData>
+		<SimpleData name="Field_1">Lansdale Doylestown Line</SimpleData>
+		<SimpleData name="Latitude">40.306198</SimpleData>
+		<SimpleData name="Line_Name">Lansdale Doylestown Line</SimpleData>
+		<SimpleData name="Longitude">-75.130684</SimpleData>
+		<SimpleData name="On_Street">S. Clinton St</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Doylestown</SimpleData>
+		<SimpleData name="Stop_ID">90538</SimpleData>
+		<SimpleData name="Street_Add">130 S. Clinton St</SimpleData>
+		<SimpleData name="Zip">18901</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.1306842146791,40.3061983563198</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lansdale Doylestown Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">County Line Rd</SimpleData>
+		<SimpleData name="City">Chalfont</SimpleData>
+		<SimpleData name="County">Montgomery</SimpleData>
+		<SimpleData name="Field_1">Lansdale Doylestown Line</SimpleData>
+		<SimpleData name="Latitude">40.273883</SimpleData>
+		<SimpleData name="Line_Name">Lansdale Doylestown Line</SimpleData>
+		<SimpleData name="Longitude">-75.246755</SimpleData>
+		<SimpleData name="On_Street">W. Walnut St</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Link Belt</SimpleData>
+		<SimpleData name="Stop_ID">90534</SimpleData>
+		<SimpleData name="Street_Add">3367 E. Walnut St</SimpleData>
+		<SimpleData name="Zip">18915</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.2467554441182,40.2738825112724</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cynwyd Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Conshohocken State Rd</SimpleData>
+		<SimpleData name="City">Bala Cynwyd</SimpleData>
+		<SimpleData name="County">Philadelphia</SimpleData>
+		<SimpleData name="Field_1">Cynwyd Line</SimpleData>
+		<SimpleData name="Latitude">40.006837</SimpleData>
+		<SimpleData name="Line_Name">Cynwyd Line</SimpleData>
+		<SimpleData name="Longitude">-75.231841</SimpleData>
+		<SimpleData name="On_Street">Montgomery Ave</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Cynwyd</SimpleData>
+		<SimpleData name="Stop_ID">90001</SimpleData>
+		<SimpleData name="Street_Add">1 E. Montgomery Ave</SimpleData>
+		<SimpleData name="Zip">19004</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.2318410741847,40.0068367430384</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cynwyd Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Bala Ave</SimpleData>
+		<SimpleData name="City">Philadelphia</SimpleData>
+		<SimpleData name="County">Philadelphia</SimpleData>
+		<SimpleData name="Field_1">Cynwyd Line</SimpleData>
+		<SimpleData name="Latitude">40.001038</SimpleData>
+		<SimpleData name="Line_Name">Cynwyd Line</SimpleData>
+		<SimpleData name="Longitude">-75.227739</SimpleData>
+		<SimpleData name="On_Street">W. City Ave</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Bala</SimpleData>
+		<SimpleData name="Stop_ID">90002</SimpleData>
+		<SimpleData name="Street_Add">Bala &amp;amp; City Ave</SimpleData>
+		<SimpleData name="Zip">19131</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.2277387015444,40.0010378376999</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cynwyd Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Bryn Mawr Ave</SimpleData>
+		<SimpleData name="City">Philadelphia</SimpleData>
+		<SimpleData name="County">Philadelphia</SimpleData>
+		<SimpleData name="Field_1">Cynwyd Line</SimpleData>
+		<SimpleData name="Latitude">39.990207</SimpleData>
+		<SimpleData name="Line_Name">Cynwyd Line</SimpleData>
+		<SimpleData name="Longitude">-75.225648</SimpleData>
+		<SimpleData name="On_Street">Wynnfield Ave</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Wynnefield Avenue</SimpleData>
+		<SimpleData name="Stop_ID">90003</SimpleData>
+		<SimpleData name="Street_Add">5024  Wynnfield Ave</SimpleData>
+		<SimpleData name="Zip">19131</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.2256478091043,39.9902070397728</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Joint</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Lehigh Ave</SimpleData>
+		<SimpleData name="City">Philadelphia</SimpleData>
+		<SimpleData name="County">Philadelphia</SimpleData>
+		<SimpleData name="Field_1">Joint</SimpleData>
+		<SimpleData name="Latitude">39.991887</SimpleData>
+		<SimpleData name="Line_Name">Joint</SimpleData>
+		<SimpleData name="Longitude">-75.153716</SimpleData>
+		<SimpleData name="On_Street">N. Broad St</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">North Broad</SimpleData>
+		<SimpleData name="Stop_ID">90008</SimpleData>
+		<SimpleData name="Street_Add">2693 N. Broad St (near Lehigh Ave)</SimpleData>
+		<SimpleData name="Zip">19133</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.153715638694,39.9918873563927</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Manayunk Norristown Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Allegheny Ave</SimpleData>
+		<SimpleData name="City">Philadelphia</SimpleData>
+		<SimpleData name="County">Philadelphia</SimpleData>
+		<SimpleData name="Field_1">Manayunk Norristown Line</SimpleData>
+		<SimpleData name="Latitude">40.003859</SimpleData>
+		<SimpleData name="Line_Name">Manayunk Norristown Line</SimpleData>
+		<SimpleData name="Longitude">-75.165426</SimpleData>
+		<SimpleData name="On_Street">22nd St</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Allegheny</SimpleData>
+		<SimpleData name="Stop_ID">90218</SimpleData>
+		<SimpleData name="Street_Add">3235 N. 22nd St</SimpleData>
+		<SimpleData name="Zip">19140</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.1654260497972,40.003859057089</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Manayunk Norristown Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Cresson St</SimpleData>
+		<SimpleData name="City">Philadelphia</SimpleData>
+		<SimpleData name="County">Philadelphia</SimpleData>
+		<SimpleData name="Field_1">Manayunk Norristown Line</SimpleData>
+		<SimpleData name="Latitude">40.011406</SimpleData>
+		<SimpleData name="Line_Name">Manayunk Norristown Line</SimpleData>
+		<SimpleData name="Longitude">-75.192041</SimpleData>
+		<SimpleData name="On_Street">Midvale Ave</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">East Falls</SimpleData>
+		<SimpleData name="Stop_ID">90219</SimpleData>
+		<SimpleData name="Street_Add">3610 Midvale Ave</SimpleData>
+		<SimpleData name="Zip">19129</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.1920414834315,40.0114062356856</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Manayunk Norristown Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Sumac St</SimpleData>
+		<SimpleData name="City">Philadelphia</SimpleData>
+		<SimpleData name="County">Philadelphia</SimpleData>
+		<SimpleData name="Field_1">Manayunk Norristown Line</SimpleData>
+		<SimpleData name="Latitude">40.016567</SimpleData>
+		<SimpleData name="Line_Name">Manayunk Norristown Line</SimpleData>
+		<SimpleData name="Longitude">-75.210207</SimpleData>
+		<SimpleData name="On_Street">Rochelle Ave</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Wissahickon</SimpleData>
+		<SimpleData name="Stop_ID">90220</SimpleData>
+		<SimpleData name="Street_Add">5100 Rochelle Ave</SimpleData>
+		<SimpleData name="Zip">19128</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.2102067913853,40.0165667600268</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Manayunk Norristown Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Cresson St</SimpleData>
+		<SimpleData name="City">Philadelphia</SimpleData>
+		<SimpleData name="County">Philadelphia</SimpleData>
+		<SimpleData name="Field_1">Manayunk Norristown Line</SimpleData>
+		<SimpleData name="Latitude">40.026669</SimpleData>
+		<SimpleData name="Line_Name">Manayunk Norristown Line</SimpleData>
+		<SimpleData name="Longitude">-75.224668</SimpleData>
+		<SimpleData name="On_Street">Carson St</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Manayunk</SimpleData>
+		<SimpleData name="Stop_ID">90221</SimpleData>
+		<SimpleData name="Street_Add">117 Carson St</SimpleData>
+		<SimpleData name="Zip">19127</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.2246680172242,40.0266686940211</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Manayunk Norristown Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Parker Ave</SimpleData>
+		<SimpleData name="City">Philadelphia</SimpleData>
+		<SimpleData name="County">Philadelphia</SimpleData>
+		<SimpleData name="Field_1">Manayunk Norristown Line</SimpleData>
+		<SimpleData name="Latitude">40.03403</SimpleData>
+		<SimpleData name="Line_Name">Manayunk Norristown Line</SimpleData>
+		<SimpleData name="Longitude">-75.23542</SimpleData>
+		<SimpleData name="On_Street">Umbria St</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Ivy Ridge</SimpleData>
+		<SimpleData name="Stop_ID">90222</SimpleData>
+		<SimpleData name="Street_Add">4910 Umbria St</SimpleData>
+		<SimpleData name="Zip">19128</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.2354198874039,40.0340302653411</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Manayunk Norristown Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Manor Rd</SimpleData>
+		<SimpleData name="City">Conshohocken</SimpleData>
+		<SimpleData name="County">Montgomery</SimpleData>
+		<SimpleData name="Field_1">Manayunk Norristown Line</SimpleData>
+		<SimpleData name="Latitude">40.058529</SimpleData>
+		<SimpleData name="Line_Name">Manayunk Norristown Line</SimpleData>
+		<SimpleData name="Longitude">-75.266396</SimpleData>
+		<SimpleData name="On_Street">River Rd</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Miquon</SimpleData>
+		<SimpleData name="Stop_ID">90223</SimpleData>
+		<SimpleData name="Street_Add">1096 River Rd</SimpleData>
+		<SimpleData name="Zip">19428</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.2663959469277,40.0585291632482</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Manayunk Norristown Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Hector St</SimpleData>
+		<SimpleData name="City">Conshohocken</SimpleData>
+		<SimpleData name="County">Montgomery</SimpleData>
+		<SimpleData name="Field_1">Manayunk Norristown Line</SimpleData>
+		<SimpleData name="Latitude">40.074216</SimpleData>
+		<SimpleData name="Line_Name">Manayunk Norristown Line</SimpleData>
+		<SimpleData name="Longitude">-75.286083</SimpleData>
+		<SimpleData name="On_Street">Station Ave</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Spring Mill</SimpleData>
+		<SimpleData name="Stop_ID">90224</SimpleData>
+		<SimpleData name="Street_Add">98 Station Ave (near Hector St)</SimpleData>
+		<SimpleData name="Zip">19428</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.286083227973,40.0742160459166</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Manayunk Norristown Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Sweede St</SimpleData>
+		<SimpleData name="City">Norristown</SimpleData>
+		<SimpleData name="County">Montgomery</SimpleData>
+		<SimpleData name="Field_1">Manayunk Norristown Line</SimpleData>
+		<SimpleData name="Latitude">40.112675</SimpleData>
+		<SimpleData name="Line_Name">Manayunk Norristown Line</SimpleData>
+		<SimpleData name="Longitude">-75.344044</SimpleData>
+		<SimpleData name="On_Street">E. Lafayette St</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Norristown T.C.</SimpleData>
+		<SimpleData name="Stop_ID">90226</SimpleData>
+		<SimpleData name="Street_Add">Lafayette St &amp;amp; Swede St</SimpleData>
+		<SimpleData name="Zip">19401</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.3440439982568,40.1126753336068</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Manayunk Norristown Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Markley St</SimpleData>
+		<SimpleData name="City">Norristown</SimpleData>
+		<SimpleData name="County">Montgomery</SimpleData>
+		<SimpleData name="Field_1">Manayunk Norristown Line</SimpleData>
+		<SimpleData name="Latitude">40.116949</SimpleData>
+		<SimpleData name="Line_Name">Manayunk Norristown Line</SimpleData>
+		<SimpleData name="Longitude">-75.348792</SimpleData>
+		<SimpleData name="On_Street">W. Main St</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Main Street</SimpleData>
+		<SimpleData name="Stop_ID">90227</SimpleData>
+		<SimpleData name="Street_Add">305 W. Main St at Markley St</SimpleData>
+		<SimpleData name="Zip">19401</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.3487921235124,40.1169488566433</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Manayunk Norristown Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">W. Elm St</SimpleData>
+		<SimpleData name="City">Norristown</SimpleData>
+		<SimpleData name="County">Montgomery</SimpleData>
+		<SimpleData name="Field_1">Manayunk Norristown Line</SimpleData>
+		<SimpleData name="Latitude">40.120847</SimpleData>
+		<SimpleData name="Line_Name">Manayunk Norristown Line</SimpleData>
+		<SimpleData name="Longitude">-75.345086</SimpleData>
+		<SimpleData name="On_Street">Markley St</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Elm Street</SimpleData>
+		<SimpleData name="Stop_ID">90228</SimpleData>
+		<SimpleData name="Street_Add">793 Markley St</SimpleData>
+		<SimpleData name="Zip">19401</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.3450864811464,40.1208471453742</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Trenton Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Prospect St</SimpleData>
+		<SimpleData name="City">Bristol</SimpleData>
+		<SimpleData name="County">Bucks</SimpleData>
+		<SimpleData name="Field_1">Trenton Line</SimpleData>
+		<SimpleData name="Latitude">40.104939</SimpleData>
+		<SimpleData name="Line_Name">Trenton Line</SimpleData>
+		<SimpleData name="Longitude">-74.85482</SimpleData>
+		<SimpleData name="On_Street">Washington St</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Bristol</SimpleData>
+		<SimpleData name="Stop_ID">90703</SimpleData>
+		<SimpleData name="Street_Add">790 Washington St</SimpleData>
+		<SimpleData name="Zip">19007</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.8548197665638,40.1049385497431</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Trenton Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Newportville Rd</SimpleData>
+		<SimpleData name="City">Croydon</SimpleData>
+		<SimpleData name="County">Bucks</SimpleData>
+		<SimpleData name="Field_1">Trenton Line</SimpleData>
+		<SimpleData name="Latitude">40.093554</SimpleData>
+		<SimpleData name="Line_Name">Trenton Line</SimpleData>
+		<SimpleData name="Longitude">-74.906808</SimpleData>
+		<SimpleData name="On_Street">Bristol Pike</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Croydon</SimpleData>
+		<SimpleData name="Stop_ID">90704</SimpleData>
+		<SimpleData name="Street_Add">751 Bristol Pike</SimpleData>
+		<SimpleData name="Zip">19021</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.9068081055691,40.0935542227079</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Trenton Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Dunks Ferry Rd</SimpleData>
+		<SimpleData name="City">Bensalem</SimpleData>
+		<SimpleData name="County">Bucks</SimpleData>
+		<SimpleData name="Field_1">Trenton Line</SimpleData>
+		<SimpleData name="Latitude">40.082958</SimpleData>
+		<SimpleData name="Line_Name">Trenton Line</SimpleData>
+		<SimpleData name="Longitude">-74.933731</SimpleData>
+		<SimpleData name="On_Street">Street Rd</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Eddington</SimpleData>
+		<SimpleData name="Stop_ID">90705</SimpleData>
+		<SimpleData name="Street_Add">1099 Street Rd</SimpleData>
+		<SimpleData name="Zip">19020</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.9337310432389,40.0829578687345</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Trenton Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">I-95</SimpleData>
+		<SimpleData name="City">Bensalem</SimpleData>
+		<SimpleData name="County">Bucks</SimpleData>
+		<SimpleData name="Field_1">Trenton Line</SimpleData>
+		<SimpleData name="Latitude">40.071845</SimpleData>
+		<SimpleData name="Line_Name">Trenton Line</SimpleData>
+		<SimpleData name="Longitude">-74.952156</SimpleData>
+		<SimpleData name="On_Street">Station Ave</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Cornwells Heights</SimpleData>
+		<SimpleData name="Stop_ID">90706</SimpleData>
+		<SimpleData name="Street_Add">799 Station Ave (off I-95)</SimpleData>
+		<SimpleData name="Zip">19020</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.9521559099109,40.0718454581096</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Trenton Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Raoul Wallenberg Ave</SimpleData>
+		<SimpleData name="City">Trenton</SimpleData>
+		<SimpleData name="County">Mercer</SimpleData>
+		<SimpleData name="Field_1">Trenton Line</SimpleData>
+		<SimpleData name="Latitude">40.218523</SimpleData>
+		<SimpleData name="Line_Name">Trenton Line</SimpleData>
+		<SimpleData name="Longitude">-74.753869</SimpleData>
+		<SimpleData name="On_Street">S. Clinton Ave</SimpleData>
+		<SimpleData name="State">NJ</SimpleData>
+		<SimpleData name="Station_Na">Trenton Transit Center</SimpleData>
+		<SimpleData name="Stop_ID">90701</SimpleData>
+		<SimpleData name="Street_Add">83 S. Clinton Ave</SimpleData>
+		<SimpleData name="Zip">08609</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.7538690318174,40.2185232773522</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Trenton Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Grant Ave</SimpleData>
+		<SimpleData name="City">Philadelphia</SimpleData>
+		<SimpleData name="County">Philadelphia</SimpleData>
+		<SimpleData name="Field_1">Trenton Line</SimpleData>
+		<SimpleData name="Latitude">40.054404</SimpleData>
+		<SimpleData name="Line_Name">Trenton Line</SimpleData>
+		<SimpleData name="Longitude">-74.984499</SimpleData>
+		<SimpleData name="On_Street">James St</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Torresdale</SimpleData>
+		<SimpleData name="Stop_ID">90707</SimpleData>
+		<SimpleData name="Street_Add">9648 James St</SimpleData>
+		<SimpleData name="Zip">19114</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.984499410396,40.0544038419642</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Trenton Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Keystone St</SimpleData>
+		<SimpleData name="City">Philadelphia</SimpleData>
+		<SimpleData name="County">Philadelphia</SimpleData>
+		<SimpleData name="Field_1">Trenton Line</SimpleData>
+		<SimpleData name="Latitude">40.023238</SimpleData>
+		<SimpleData name="Line_Name">Trenton Line</SimpleData>
+		<SimpleData name="Longitude">-75.039026</SimpleData>
+		<SimpleData name="On_Street">Disston St</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Tacony</SimpleData>
+		<SimpleData name="Stop_ID">90709</SimpleData>
+		<SimpleData name="Street_Add">4938 Disston St</SimpleData>
+		<SimpleData name="Zip">19135</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.0390255075406,40.0232382854238</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Joint</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">JFK Blvd</SimpleData>
+		<SimpleData name="City">Philadaelphia</SimpleData>
+		<SimpleData name="County">Philadelphia</SimpleData>
+		<SimpleData name="Field_1">Joint</SimpleData>
+		<SimpleData name="Latitude">39.95399</SimpleData>
+		<SimpleData name="Line_Name">Joint</SimpleData>
+		<SimpleData name="Longitude">-75.167471</SimpleData>
+		<SimpleData name="On_Street">16th St</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Suburban Station</SimpleData>
+		<SimpleData name="Stop_ID">90005</SimpleData>
+		<SimpleData name="Street_Add">16th St &amp;amp; JFK Blvd</SimpleData>
+		<SimpleData name="Zip">19103</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.1674714517749,39.9539902618859</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Joint</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Market St</SimpleData>
+		<SimpleData name="City">Philadaelphia</SimpleData>
+		<SimpleData name="County">Philadelphia</SimpleData>
+		<SimpleData name="Field_1">Joint</SimpleData>
+		<SimpleData name="Latitude">39.952641</SimpleData>
+		<SimpleData name="Line_Name">Joint</SimpleData>
+		<SimpleData name="Longitude">-75.158372</SimpleData>
+		<SimpleData name="On_Street">11th St</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Jefferson</SimpleData>
+		<SimpleData name="Stop_ID">90006</SimpleData>
+		<SimpleData name="Street_Add">Market St Between 10th &amp;amp; 12th Sts</SimpleData>
+		<SimpleData name="Zip">19107</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.1583719421486,39.9526407868309</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chestnut Hill East Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Bayton St</SimpleData>
+		<SimpleData name="City">Philadelphia</SimpleData>
+		<SimpleData name="County">Philadelphia</SimpleData>
+		<SimpleData name="Field_1">Chestnut Hill East Line</SimpleData>
+		<SimpleData name="Latitude">40.037838</SimpleData>
+		<SimpleData name="Line_Name">Chestnut Hill East Line</SimpleData>
+		<SimpleData name="Longitude">-75.171922</SimpleData>
+		<SimpleData name="On_Street">E. Chelton Ave</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Germantown</SimpleData>
+		<SimpleData name="Stop_ID">90713</SimpleData>
+		<SimpleData name="Street_Add">150 E. Chelten Ave</SimpleData>
+		<SimpleData name="Zip">19144</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.1719219775236,40.0378378937367</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chestnut Hill East Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Clearview St</SimpleData>
+		<SimpleData name="City">Philadelphia</SimpleData>
+		<SimpleData name="County">Philadelphia</SimpleData>
+		<SimpleData name="Field_1">Chestnut Hill East Line</SimpleData>
+		<SimpleData name="Latitude">40.051093</SimpleData>
+		<SimpleData name="Line_Name">Chestnut Hill East Line</SimpleData>
+		<SimpleData name="Longitude">-75.171557</SimpleData>
+		<SimpleData name="On_Street">E. Washington Ln</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Washington Lane</SimpleData>
+		<SimpleData name="Stop_ID">90714</SimpleData>
+		<SimpleData name="Street_Add">823 E. Washington Ln</SimpleData>
+		<SimpleData name="Zip">19138</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.1715572659498,40.0510931748899</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chestnut Hill East Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">E. Vernon Rd</SimpleData>
+		<SimpleData name="City">Philadelphia</SimpleData>
+		<SimpleData name="County">Philadelphia</SimpleData>
+		<SimpleData name="Field_1">Chestnut Hill East Line</SimpleData>
+		<SimpleData name="Latitude">40.060548</SimpleData>
+		<SimpleData name="Line_Name">Chestnut Hill East Line</SimpleData>
+		<SimpleData name="Longitude">-75.178813</SimpleData>
+		<SimpleData name="On_Street">Blakemore St</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Stenton</SimpleData>
+		<SimpleData name="Stop_ID">90715</SimpleData>
+		<SimpleData name="Street_Add">6797 Blakemore St</SimpleData>
+		<SimpleData name="Zip">19119</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.1788125092277,40.060547744194</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chestnut Hill East Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Devon St</SimpleData>
+		<SimpleData name="City">Philadelphia</SimpleData>
+		<SimpleData name="County">Philadelphia</SimpleData>
+		<SimpleData name="Field_1">Chestnut Hill East Line</SimpleData>
+		<SimpleData name="Latitude">40.065231</SimpleData>
+		<SimpleData name="Line_Name">Chestnut Hill East Line</SimpleData>
+		<SimpleData name="Longitude">-75.191014</SimpleData>
+		<SimpleData name="On_Street">E. Gowen Ave</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Mount Airy</SimpleData>
+		<SimpleData name="Stop_ID">90717</SimpleData>
+		<SimpleData name="Street_Add">149 E. Gowen Ave</SimpleData>
+		<SimpleData name="Zip">19119</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.191014457525,40.0652312798736</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chestnut Hill East Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">E. Willow Grove Ave</SimpleData>
+		<SimpleData name="City">Philadelphia</SimpleData>
+		<SimpleData name="County">Philadelphia</SimpleData>
+		<SimpleData name="Field_1">Chestnut Hill East Line</SimpleData>
+		<SimpleData name="Latitude">40.073466</SimpleData>
+		<SimpleData name="Line_Name">Chestnut Hill East Line</SimpleData>
+		<SimpleData name="Longitude">-75.196776</SimpleData>
+		<SimpleData name="On_Street">Wyndmoor St</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Wyndmoor</SimpleData>
+		<SimpleData name="Stop_ID">90718</SimpleData>
+		<SimpleData name="Street_Add">246 Wyndmoor St</SimpleData>
+		<SimpleData name="Zip">19118</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.1967755105982,40.0734659544434</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chestnut Hill East Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Anderson St</SimpleData>
+		<SimpleData name="City">Philadelphia</SimpleData>
+		<SimpleData name="County">Philadelphia</SimpleData>
+		<SimpleData name="Field_1">Chestnut Hill East Line</SimpleData>
+		<SimpleData name="Latitude">40.077466</SimpleData>
+		<SimpleData name="Line_Name">Chestnut Hill East Line</SimpleData>
+		<SimpleData name="Longitude">-75.201846</SimpleData>
+		<SimpleData name="On_Street">E. Gravers Ln</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Gravers</SimpleData>
+		<SimpleData name="Stop_ID">90719</SimpleData>
+		<SimpleData name="Street_Add">Gravers Ln &amp;amp; Anderson St</SimpleData>
+		<SimpleData name="Zip">19118</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.2018458090299,40.0774656720362</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chestnut Hill East Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Bethlehem Pike</SimpleData>
+		<SimpleData name="City">Philadelphia</SimpleData>
+		<SimpleData name="County">Philadelphia</SimpleData>
+		<SimpleData name="Field_1">Chestnut Hill East Line</SimpleData>
+		<SimpleData name="Latitude">40.081037</SimpleData>
+		<SimpleData name="Line_Name">Chestnut Hill East Line</SimpleData>
+		<SimpleData name="Longitude">-75.207567</SimpleData>
+		<SimpleData name="On_Street">E. Cheastnut Hill Ave</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Chestnut Hill East</SimpleData>
+		<SimpleData name="Stop_ID">90720</SimpleData>
+		<SimpleData name="Street_Add">100 E. Chestnut Hill Ave</SimpleData>
+		<SimpleData name="Zip">19118</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.2075673037506,40.0810374907408</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chestnut Hill West Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Germantown Ave</SimpleData>
+		<SimpleData name="City">Philadelphia</SimpleData>
+		<SimpleData name="County">Philadelphia</SimpleData>
+		<SimpleData name="Field_1">Chestnut Hill West Line</SimpleData>
+		<SimpleData name="Latitude">40.076251</SimpleData>
+		<SimpleData name="Line_Name">Chestnut Hill West Line</SimpleData>
+		<SimpleData name="Longitude">-75.208481</SimpleData>
+		<SimpleData name="On_Street">W. Evergreen Ave</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Chestnut Hill West</SimpleData>
+		<SimpleData name="Stop_ID">90801</SimpleData>
+		<SimpleData name="Street_Add">Germantown &amp;amp; Evergreen Aves</SimpleData>
+		<SimpleData name="Zip">19118</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.2084813756612,40.0762508340842</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Wilmington Newark Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">6th St</SimpleData>
+		<SimpleData name="City">Chester</SimpleData>
+		<SimpleData name="County">Delaware</SimpleData>
+		<SimpleData name="Field_1">Wilmington Newark Line</SimpleData>
+		<SimpleData name="Latitude">39.83368</SimpleData>
+		<SimpleData name="Line_Name">Wilmington Newark Line</SimpleData>
+		<SimpleData name="Longitude">-75.393027</SimpleData>
+		<SimpleData name="On_Street">Highland Ave</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Highland Avenue</SimpleData>
+		<SimpleData name="Stop_ID">90206</SimpleData>
+		<SimpleData name="Street_Add">450 Highland Ave</SimpleData>
+		<SimpleData name="Zip">19013</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.3930267155779,39.8336798880728</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chestnut Hill West Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Cresheim Ave</SimpleData>
+		<SimpleData name="City">Philadelphia</SimpleData>
+		<SimpleData name="County">Philadelphia</SimpleData>
+		<SimpleData name="Field_1">Chestnut Hill West Line</SimpleData>
+		<SimpleData name="Latitude">40.057431</SimpleData>
+		<SimpleData name="Line_Name">Chestnut Hill West Line</SimpleData>
+		<SimpleData name="Longitude">-75.194893</SimpleData>
+		<SimpleData name="On_Street">W. Allen Ln</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Allen Lane</SimpleData>
+		<SimpleData name="Stop_ID">90804</SimpleData>
+		<SimpleData name="Street_Add">Allen Ln &amp;amp; Cresheim St</SimpleData>
+		<SimpleData name="Zip">19119</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.1948934554343,40.0574309413904</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chestnut Hill West Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Emlen st</SimpleData>
+		<SimpleData name="City">Philadelphia</SimpleData>
+		<SimpleData name="County">Philadelphia</SimpleData>
+		<SimpleData name="Field_1">Chestnut Hill West Line</SimpleData>
+		<SimpleData name="Latitude">40.050908</SimpleData>
+		<SimpleData name="Line_Name">Chestnut Hill West Line</SimpleData>
+		<SimpleData name="Longitude">-75.191613</SimpleData>
+		<SimpleData name="On_Street">Carpenter Ln</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Carpenter</SimpleData>
+		<SimpleData name="Stop_ID">90805</SimpleData>
+		<SimpleData name="Street_Add">310 Carpenter Ln</SimpleData>
+		<SimpleData name="Zip">19119</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.1916131348057,40.0509081599533</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chestnut Hill West Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">W. Upsal St</SimpleData>
+		<SimpleData name="City">Philadelphia</SimpleData>
+		<SimpleData name="County">Philadelphia</SimpleData>
+		<SimpleData name="Field_1">Chestnut Hill West Line</SimpleData>
+		<SimpleData name="Latitude">40.04241</SimpleData>
+		<SimpleData name="Line_Name">Chestnut Hill West Line</SimpleData>
+		<SimpleData name="Longitude">-75.190192</SimpleData>
+		<SimpleData name="On_Street">Greene St</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Upsal</SimpleData>
+		<SimpleData name="Stop_ID">90806</SimpleData>
+		<SimpleData name="Street_Add">6505 Greene St</SimpleData>
+		<SimpleData name="Zip">19119</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.1901915790756,40.0424101584472</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chestnut Hill West Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Wayne Ave</SimpleData>
+		<SimpleData name="City">Philadelphia</SimpleData>
+		<SimpleData name="County">Philadelphia</SimpleData>
+		<SimpleData name="Field_1">Chestnut Hill West Line</SimpleData>
+		<SimpleData name="Latitude">40.035111</SimpleData>
+		<SimpleData name="Line_Name">Chestnut Hill West Line</SimpleData>
+		<SimpleData name="Longitude">-75.186949</SimpleData>
+		<SimpleData name="On_Street">W. Tulpehocken St</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Tulpehocken</SimpleData>
+		<SimpleData name="Stop_ID">90807</SimpleData>
+		<SimpleData name="Street_Add">333 W. Tulpehocken St</SimpleData>
+		<SimpleData name="Zip">19144</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.1869493126335,40.0351114287848</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chestnut Hill West Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Morris St</SimpleData>
+		<SimpleData name="City">Philadelphia</SimpleData>
+		<SimpleData name="County">Philadelphia</SimpleData>
+		<SimpleData name="Field_1">Chestnut Hill West Line</SimpleData>
+		<SimpleData name="Latitude">40.029994</SimpleData>
+		<SimpleData name="Line_Name">Chestnut Hill West Line</SimpleData>
+		<SimpleData name="Longitude">-75.181153</SimpleData>
+		<SimpleData name="On_Street">W. Chelton Ave</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Chelten Avenue</SimpleData>
+		<SimpleData name="Stop_ID">90808</SimpleData>
+		<SimpleData name="Street_Add">359 W. Chelten Ave</SimpleData>
+		<SimpleData name="Zip">19144</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.1811528490262,40.0299939433305</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chestnut Hill West Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Queen Ln</SimpleData>
+		<SimpleData name="City">Philadelphia</SimpleData>
+		<SimpleData name="County">Philadelphia</SimpleData>
+		<SimpleData name="Field_1">Chestnut Hill West Line</SimpleData>
+		<SimpleData name="Latitude">40.023157</SimpleData>
+		<SimpleData name="Line_Name">Chestnut Hill West Line</SimpleData>
+		<SimpleData name="Longitude">-75.178083</SimpleData>
+		<SimpleData name="On_Street">Wissahickon Ave</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Queen Lane</SimpleData>
+		<SimpleData name="Stop_ID">90809</SimpleData>
+		<SimpleData name="Street_Add">Queen Ln &amp;amp; Wissahickon Ave</SimpleData>
+		<SimpleData name="Zip">19144</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.1780827776318,40.0231574055957</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Trenton Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Glenwood Ave</SimpleData>
+		<SimpleData name="City">Philadelphia</SimpleData>
+		<SimpleData name="County">Philadelphia</SimpleData>
+		<SimpleData name="Field_1">Trenton Line</SimpleData>
+		<SimpleData name="Latitude">39.997273</SimpleData>
+		<SimpleData name="Line_Name">Trenton Line</SimpleData>
+		<SimpleData name="Longitude">-75.15527</SimpleData>
+		<SimpleData name="On_Street">Broad St</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">North Philadelphia</SimpleData>
+		<SimpleData name="Stop_ID">90810</SimpleData>
+		<SimpleData name="Street_Add">Broad St &amp;amp; Glenwood Ave</SimpleData>
+		<SimpleData name="Zip">19132</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.1552699591957,39.9972729048683</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Joint</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">10th St</SimpleData>
+		<SimpleData name="City">Philadelphia</SimpleData>
+		<SimpleData name="County">Philadelphia</SimpleData>
+		<SimpleData name="Field_1">Joint</SimpleData>
+		<SimpleData name="Latitude">39.981479</SimpleData>
+		<SimpleData name="Line_Name">Joint</SimpleData>
+		<SimpleData name="Longitude">-75.149532</SimpleData>
+		<SimpleData name="On_Street">Berks St</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Temple University</SimpleData>
+		<SimpleData name="Stop_ID">90007</SimpleData>
+		<SimpleData name="Street_Add">927 W. Berks St</SimpleData>
+		<SimpleData name="Zip">19122</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.1495318379112,39.98147852073</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Joint</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Wayne Ave</SimpleData>
+		<SimpleData name="City">Philadaelphia</SimpleData>
+		<SimpleData name="County">Philadelphia</SimpleData>
+		<SimpleData name="Field_1">Joint</SimpleData>
+		<SimpleData name="Latitude">40.022211</SimpleData>
+		<SimpleData name="Line_Name">Joint</SimpleData>
+		<SimpleData name="Longitude">-75.160148</SimpleData>
+		<SimpleData name="On_Street">Windrim Ave</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Wayne Junction</SimpleData>
+		<SimpleData name="Stop_ID">90009</SimpleData>
+		<SimpleData name="Street_Add">2129 Windrim Ave</SimpleData>
+		<SimpleData name="Zip">19144</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.1601475430836,40.0222106919084</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fox Chase Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Tabor Rd</SimpleData>
+		<SimpleData name="City">Philadelphia</SimpleData>
+		<SimpleData name="County">Philadelphia</SimpleData>
+		<SimpleData name="Field_1">Fox Chase Line</SimpleData>
+		<SimpleData name="Latitude">40.033205</SimpleData>
+		<SimpleData name="Line_Name">Fox Chase Line</SimpleData>
+		<SimpleData name="Longitude">-75.122842</SimpleData>
+		<SimpleData name="On_Street">N. Mascher St</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Olney</SimpleData>
+		<SimpleData name="Stop_ID">90811</SimpleData>
+		<SimpleData name="Street_Add">5411 N. Mascher St</SimpleData>
+		<SimpleData name="Zip">19120</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.1228420022615,40.0332049838669</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fox Chase Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Newtown Ave</SimpleData>
+		<SimpleData name="City">Philadelphia</SimpleData>
+		<SimpleData name="County">Philadelphia</SimpleData>
+		<SimpleData name="Field_1">Fox Chase Line</SimpleData>
+		<SimpleData name="Latitude">40.051414</SimpleData>
+		<SimpleData name="Line_Name">Fox Chase Line</SimpleData>
+		<SimpleData name="Longitude">-75.103127</SimpleData>
+		<SimpleData name="On_Street">Devereaux Ave</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Lawndale</SimpleData>
+		<SimpleData name="Stop_ID">90812</SimpleData>
+		<SimpleData name="Street_Add">105 Devereaux Ave</SimpleData>
+		<SimpleData name="Zip">19111</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.1031271383923,40.0514138391171</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fox Chase Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Old Soldiers Rd</SimpleData>
+		<SimpleData name="City">Philadelphia</SimpleData>
+		<SimpleData name="County">Philadelphia</SimpleData>
+		<SimpleData name="Field_1">Fox Chase Line</SimpleData>
+		<SimpleData name="Latitude">40.0577</SimpleData>
+		<SimpleData name="Line_Name">Fox Chase Line</SimpleData>
+		<SimpleData name="Longitude">-75.09302</SimpleData>
+		<SimpleData name="On_Street">Hasbrook Ave</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Cheltenham</SimpleData>
+		<SimpleData name="Stop_ID">90813</SimpleData>
+		<SimpleData name="Street_Add">589 Hasbrook Ave</SimpleData>
+		<SimpleData name="Zip">19111</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.0930196788214,40.057699631554</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fox Chase Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Hasbrook Ave</SimpleData>
+		<SimpleData name="City">Philadelphia</SimpleData>
+		<SimpleData name="County">Philadelphia</SimpleData>
+		<SimpleData name="Field_1">Fox Chase Line</SimpleData>
+		<SimpleData name="Latitude">40.063562</SimpleData>
+		<SimpleData name="Line_Name">Fox Chase Line</SimpleData>
+		<SimpleData name="Longitude">-75.086836</SimpleData>
+		<SimpleData name="On_Street">Cottman Ave</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Ryers</SimpleData>
+		<SimpleData name="Stop_ID">90814</SimpleData>
+		<SimpleData name="Street_Add">701 Cottman Ave</SimpleData>
+		<SimpleData name="Zip">19111</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.0868364001977,40.0635616521377</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fox Chase Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Elberon Ave</SimpleData>
+		<SimpleData name="City">Philadelphia</SimpleData>
+		<SimpleData name="County">Philadelphia</SimpleData>
+		<SimpleData name="Field_1">Fox Chase Line</SimpleData>
+		<SimpleData name="Latitude">40.075874</SimpleData>
+		<SimpleData name="Line_Name">Fox Chase Line</SimpleData>
+		<SimpleData name="Longitude">-75.083508</SimpleData>
+		<SimpleData name="On_Street">Rahwn St</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Fox Chase</SimpleData>
+		<SimpleData name="Stop_ID">90815</SimpleData>
+		<SimpleData name="Street_Add">440 Rhawn St</SimpleData>
+		<SimpleData name="Zip">19111</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.0835077980096,40.0758743902347</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chestnut Hill West Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">N. Broad St</SimpleData>
+		<SimpleData name="City">Philadelphia</SimpleData>
+		<SimpleData name="County">Philadelphia</SimpleData>
+		<SimpleData name="Field_1">Chestnut Hill West Line</SimpleData>
+		<SimpleData name="Latitude">39.9972</SimpleData>
+		<SimpleData name="Line_Name">Chestnut Hill West Line</SimpleData>
+		<SimpleData name="Longitude">-75.156593</SimpleData>
+		<SimpleData name="On_Street">W. Indiana Ave</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">North Philadelphia</SimpleData>
+		<SimpleData name="Stop_ID">90810</SimpleData>
+		<SimpleData name="Street_Add">1503 W. Indiana Ave</SimpleData>
+		<SimpleData name="Zip">19132</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.1565931197823,39.9972002549027</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Manayunk Norristown Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Fayette St</SimpleData>
+		<SimpleData name="City">Conshohocken</SimpleData>
+		<SimpleData name="County">Montgomery</SimpleData>
+		<SimpleData name="Field_1">Manayunk Norristown Line</SimpleData>
+		<SimpleData name="Latitude">40.072115</SimpleData>
+		<SimpleData name="Line_Name">Manayunk Norristown Line</SimpleData>
+		<SimpleData name="Longitude">-75.30864</SimpleData>
+		<SimpleData name="On_Street">Washington St</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Conshohocken</SimpleData>
+		<SimpleData name="Stop_ID">90225</SimpleData>
+		<SimpleData name="Street_Add">20  Washington St</SimpleData>
+		<SimpleData name="Zip">19428</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.3086403926652,40.0721151041756</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Warminster Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Eagle Hill Rd</SimpleData>
+		<SimpleData name="City">Glenside</SimpleData>
+		<SimpleData name="County">Montogomery</SimpleData>
+		<SimpleData name="Field_1">Warminster Line</SimpleData>
+		<SimpleData name="Latitude">40.114179</SimpleData>
+		<SimpleData name="Line_Name">Warminster Line</SimpleData>
+		<SimpleData name="Longitude">-75.153145</SimpleData>
+		<SimpleData name="On_Street">Jenkintown Rd</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Ardsley</SimpleData>
+		<SimpleData name="Stop_ID">90412</SimpleData>
+		<SimpleData name="Street_Add">2620 Jenkintown Rd</SimpleData>
+		<SimpleData name="Zip">19038</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.153144689862,40.1141794931622</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>West Trenton Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Baeder Rd</SimpleData>
+		<SimpleData name="City">Jenkintown</SimpleData>
+		<SimpleData name="County">Montgomery</SimpleData>
+		<SimpleData name="Field_1">West Trenton Line</SimpleData>
+		<SimpleData name="Latitude">40.104341</SimpleData>
+		<SimpleData name="Line_Name">West Trenton Line</SimpleData>
+		<SimpleData name="Longitude">-75.124671</SimpleData>
+		<SimpleData name="On_Street">Old York Rd</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Noble</SimpleData>
+		<SimpleData name="Stop_ID">90315</SimpleData>
+		<SimpleData name="Street_Add">801 Old York Rd</SimpleData>
+		<SimpleData name="Zip">19046</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.124670801619,40.1043409675848</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>West Trenton Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Washington Ln</SimpleData>
+		<SimpleData name="City">Jenkintown</SimpleData>
+		<SimpleData name="County">Montgomery</SimpleData>
+		<SimpleData name="Field_1">West Trenton Line</SimpleData>
+		<SimpleData name="Latitude">40.107411</SimpleData>
+		<SimpleData name="Line_Name">West Trenton Line</SimpleData>
+		<SimpleData name="Longitude">-75.110531</SimpleData>
+		<SimpleData name="On_Street">Susquehanna Rd</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Rydal</SimpleData>
+		<SimpleData name="Stop_ID">90316</SimpleData>
+		<SimpleData name="Street_Add">1470 Susquehanna Rd</SimpleData>
+		<SimpleData name="Zip">19046</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.1105312900453,40.1074108811491</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>West Trenton Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Philmont Ave</SimpleData>
+		<SimpleData name="City">Huntingdon Valley</SimpleData>
+		<SimpleData name="County">Montgomery</SimpleData>
+		<SimpleData name="Field_1">West Trenton Line</SimpleData>
+		<SimpleData name="Latitude">40.121865</SimpleData>
+		<SimpleData name="Line_Name">West Trenton Line</SimpleData>
+		<SimpleData name="Longitude">-75.043786</SimpleData>
+		<SimpleData name="On_Street">Tomlinson Rd</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Philmont</SimpleData>
+		<SimpleData name="Stop_ID">90319</SimpleData>
+		<SimpleData name="Street_Add">106 Tomlinson Rd</SimpleData>
+		<SimpleData name="Zip">19006</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.0437862964924,40.1218651877311</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>West Trenton Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Bustleton Ave</SimpleData>
+		<SimpleData name="City">Philadelphia</SimpleData>
+		<SimpleData name="County">Philadelphia</SimpleData>
+		<SimpleData name="Field_1">West Trenton Line</SimpleData>
+		<SimpleData name="Latitude">40.130643</SimpleData>
+		<SimpleData name="Line_Name">West Trenton Line</SimpleData>
+		<SimpleData name="Longitude">-75.012004</SimpleData>
+		<SimpleData name="On_Street">Philmont Ave</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Somerton</SimpleData>
+		<SimpleData name="Stop_ID">90321</SimpleData>
+		<SimpleData name="Street_Add">13623 Philmont Ave</SimpleData>
+		<SimpleData name="Zip">19116</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.0120043427109,40.1306427455667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Trenton Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Levittown Pkwy</SimpleData>
+		<SimpleData name="City">Bristol</SimpleData>
+		<SimpleData name="County">Bucks</SimpleData>
+		<SimpleData name="Field_1">Trenton Line</SimpleData>
+		<SimpleData name="Latitude">40.140133</SimpleData>
+		<SimpleData name="Line_Name">Trenton Line</SimpleData>
+		<SimpleData name="Longitude">-74.817154</SimpleData>
+		<SimpleData name="On_Street">Bristol Pike</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Levittown</SimpleData>
+		<SimpleData name="Stop_ID">90702</SimpleData>
+		<SimpleData name="Street_Add">8301 Bristol Pike</SimpleData>
+		<SimpleData name="Zip">19007</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-74.8171536671915,40.1401332150088</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Trenton Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Tulip St</SimpleData>
+		<SimpleData name="City">Philadelphia</SimpleData>
+		<SimpleData name="County">Philadelphia</SimpleData>
+		<SimpleData name="Field_1">Trenton Line</SimpleData>
+		<SimpleData name="Latitude">40.032502</SimpleData>
+		<SimpleData name="Line_Name">Trenton Line</SimpleData>
+		<SimpleData name="Longitude">-75.024069</SimpleData>
+		<SimpleData name="On_Street">Rahwn St</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Holmesburg Junction</SimpleData>
+		<SimpleData name="Stop_ID">90708</SimpleData>
+		<SimpleData name="Street_Add">4783 Rhawn St</SimpleData>
+		<SimpleData name="Zip">19136</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.0240694017646,40.0325024962535</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Trenton Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Harbison Ave</SimpleData>
+		<SimpleData name="City">Philadelphia</SimpleData>
+		<SimpleData name="County">Philadelphia</SimpleData>
+		<SimpleData name="Field_1">Trenton Line</SimpleData>
+		<SimpleData name="Latitude">40.010668</SimpleData>
+		<SimpleData name="Line_Name">Trenton Line</SimpleData>
+		<SimpleData name="Longitude">-75.070014</SimpleData>
+		<SimpleData name="On_Street">Bridge St</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Bridesburg</SimpleData>
+		<SimpleData name="Stop_ID">90710</SimpleData>
+		<SimpleData name="Street_Add">2202 Bridge St</SimpleData>
+		<SimpleData name="Zip">19137</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.0700140054657,40.0106678350282</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Joint</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Park Ave</SimpleData>
+		<SimpleData name="City">Elkins Park</SimpleData>
+		<SimpleData name="County">Montogomery</SimpleData>
+		<SimpleData name="Field_1">Joint</SimpleData>
+		<SimpleData name="Latitude">40.071288</SimpleData>
+		<SimpleData name="Line_Name">Joint</SimpleData>
+		<SimpleData name="Longitude">-75.127665</SimpleData>
+		<SimpleData name="On_Street">Spring Ave</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Elkins Park</SimpleData>
+		<SimpleData name="Stop_ID">90409</SimpleData>
+		<SimpleData name="Street_Add">7876 Spring Ave</SimpleData>
+		<SimpleData name="Zip">19027</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.1276651971975,40.071287821123</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Joint</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Mill Rd</SimpleData>
+		<SimpleData name="City">Elkins Park</SimpleData>
+		<SimpleData name="County">Montogomery</SimpleData>
+		<SimpleData name="Field_1">Joint</SimpleData>
+		<SimpleData name="Latitude">40.059447</SimpleData>
+		<SimpleData name="Line_Name">Joint</SimpleData>
+		<SimpleData name="Longitude">-75.129154</SimpleData>
+		<SimpleData name="On_Street">Valley Rd</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Melrose Park</SimpleData>
+		<SimpleData name="Stop_ID">90408</SimpleData>
+		<SimpleData name="Street_Add">900 Valley Rd</SimpleData>
+		<SimpleData name="Zip">19027</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.1291542792584,40.0594466167241</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chestnut Hill East Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Armstrong St</SimpleData>
+		<SimpleData name="City">Philadelphia</SimpleData>
+		<SimpleData name="County">Philadelphia</SimpleData>
+		<SimpleData name="Field_1">Chestnut Hill East Line</SimpleData>
+		<SimpleData name="Latitude">40.036182</SimpleData>
+		<SimpleData name="Line_Name">Chestnut Hill East Line</SimpleData>
+		<SimpleData name="Longitude">-75.161466</SimpleData>
+		<SimpleData name="On_Street">Belfield Ave</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Wister</SimpleData>
+		<SimpleData name="Stop_ID">90712</SimpleData>
+		<SimpleData name="Street_Add">5230 Belfield Ave at Armstrong Ln</SimpleData>
+		<SimpleData name="Zip">19144</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.1614658094725,40.0361821681595</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chestnut Hill East Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">E. Mt. Pleasant Ave</SimpleData>
+		<SimpleData name="City">Philadelphia</SimpleData>
+		<SimpleData name="County">Philadelphia</SimpleData>
+		<SimpleData name="Field_1">Chestnut Hill East Line</SimpleData>
+		<SimpleData name="Latitude">40.062773</SimpleData>
+		<SimpleData name="Line_Name">Chestnut Hill East Line</SimpleData>
+		<SimpleData name="Longitude">-75.185009</SimpleData>
+		<SimpleData name="On_Street">Devon St</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Sedgwick</SimpleData>
+		<SimpleData name="Stop_ID">90716</SimpleData>
+		<SimpleData name="Street_Add">7139 Devon St</SimpleData>
+		<SimpleData name="Zip">19119</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.1850094382271,40.0627729466071</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Chestnut Hill West Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Pocono St</SimpleData>
+		<SimpleData name="City">Philadelphia</SimpleData>
+		<SimpleData name="County">Philadelphia</SimpleData>
+		<SimpleData name="Field_1">Chestnut Hill West Line</SimpleData>
+		<SimpleData name="Latitude">40.065785</SimpleData>
+		<SimpleData name="Line_Name">Chestnut Hill West Line</SimpleData>
+		<SimpleData name="Longitude">-75.204488</SimpleData>
+		<SimpleData name="On_Street">W. Willow Grove Ave</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">St. Martins</SimpleData>
+		<SimpleData name="Stop_ID">90803</SimpleData>
+		<SimpleData name="Street_Add">320 W. Willow Grove Ave</SimpleData>
+		<SimpleData name="Zip">19118</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.2044879350181,40.0657847338626</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paoli Thorndale Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Berkley Rd</SimpleData>
+		<SimpleData name="City">Haverford</SimpleData>
+		<SimpleData name="County">Montgomery</SimpleData>
+		<SimpleData name="Field_1">Paoli Thorndale Line</SimpleData>
+		<SimpleData name="Latitude">40.014052</SimpleData>
+		<SimpleData name="Line_Name">Paoli Thorndale Line</SimpleData>
+		<SimpleData name="Longitude">-75.300095</SimpleData>
+		<SimpleData name="On_Street">Haverford Station Rd</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Haverford</SimpleData>
+		<SimpleData name="Stop_ID">90517</SimpleData>
+		<SimpleData name="Street_Add">43 Haverford Station Rd</SimpleData>
+		<SimpleData name="Zip">19041</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.3000947670919,40.0140521862472</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paoli Thorndale Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Anderson Ave</SimpleData>
+		<SimpleData name="City">Ardmore</SimpleData>
+		<SimpleData name="County">Montgomery</SimpleData>
+		<SimpleData name="Field_1">Paoli Thorndale Line</SimpleData>
+		<SimpleData name="Latitude">40.008368</SimpleData>
+		<SimpleData name="Line_Name">Paoli Thorndale Line</SimpleData>
+		<SimpleData name="Longitude">-75.290179</SimpleData>
+		<SimpleData name="On_Street">Station Ave</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Ardmore</SimpleData>
+		<SimpleData name="Stop_ID">90518</SimpleData>
+		<SimpleData name="Street_Add">39 Station Rd</SimpleData>
+		<SimpleData name="Zip">19003</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.2901786297492,40.0083675359302</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paoli Thorndale Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">County Line Rd</SimpleData>
+		<SimpleData name="City">Villonova</SimpleData>
+		<SimpleData name="County">Delaware</SimpleData>
+		<SimpleData name="Field_1">Paoli Thorndale Line</SimpleData>
+		<SimpleData name="Latitude">40.038673</SimpleData>
+		<SimpleData name="Line_Name">Paoli Thorndale Line</SimpleData>
+		<SimpleData name="Longitude">-75.342355</SimpleData>
+		<SimpleData name="On_Street">N. Spring Mill Rd</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Villanova</SimpleData>
+		<SimpleData name="Stop_ID">90514</SimpleData>
+		<SimpleData name="Street_Add">308 N. Spring Mill Rd</SimpleData>
+		<SimpleData name="Zip">19085</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.3423553955028,40.0386725899952</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paoli Thorndale Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Lancaster Ave</SimpleData>
+		<SimpleData name="City">Wayne</SimpleData>
+		<SimpleData name="County">Delaware</SimpleData>
+		<SimpleData name="Field_1">Paoli Thorndale Line</SimpleData>
+		<SimpleData name="Latitude">40.044105</SimpleData>
+		<SimpleData name="Line_Name">Paoli Thorndale Line</SimpleData>
+		<SimpleData name="Longitude">-75.373495</SimpleData>
+		<SimpleData name="On_Street">Chamounix Rd</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">St. Davids</SimpleData>
+		<SimpleData name="Stop_ID">90512</SimpleData>
+		<SimpleData name="Street_Add">53 Chamounix Rd (near Lancaster Ave)</SimpleData>
+		<SimpleData name="Zip">19087</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.3734951425227,40.0441048725793</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paoli Thorndale Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Lancaster Ave</SimpleData>
+		<SimpleData name="City">Devon</SimpleData>
+		<SimpleData name="County">Chester</SimpleData>
+		<SimpleData name="Field_1">Paoli Thorndale Line</SimpleData>
+		<SimpleData name="Latitude">40.047383</SimpleData>
+		<SimpleData name="Line_Name">Paoli Thorndale Line</SimpleData>
+		<SimpleData name="Longitude">-75.422887</SimpleData>
+		<SimpleData name="On_Street">N. Devon Blvd</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Devon</SimpleData>
+		<SimpleData name="Stop_ID">90509</SimpleData>
+		<SimpleData name="Street_Add">1 N. Devon Blvd (off Lancaster Ave)</SimpleData>
+		<SimpleData name="Zip">19333</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.4228866474962,40.0473826196722</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Paoli Thorndale Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">PA Route 100</SimpleData>
+		<SimpleData name="City">Exton</SimpleData>
+		<SimpleData name="County">Chester</SimpleData>
+		<SimpleData name="Field_1">Paoli Thorndale Line</SimpleData>
+		<SimpleData name="Latitude">40.019397</SimpleData>
+		<SimpleData name="Line_Name">Paoli Thorndale Line</SimpleData>
+		<SimpleData name="Longitude">-75.621788</SimpleData>
+		<SimpleData name="On_Street">Walkertown Rd</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Exton</SimpleData>
+		<SimpleData name="Stop_ID">90504</SimpleData>
+		<SimpleData name="Street_Add">445 Walkertown Rd (off PA Route 100)</SimpleData>
+		<SimpleData name="Zip">19341</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.6217880085335,40.0193967549153</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Wilmington Newark Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Ogletown Stanton Rd</SimpleData>
+		<SimpleData name="City">Newark</SimpleData>
+		<SimpleData name="County">New Castle</SimpleData>
+		<SimpleData name="Field_1">Wilmington Newark Line</SimpleData>
+		<SimpleData name="Latitude">39.694534</SimpleData>
+		<SimpleData name="Line_Name">Wilmington Newark Line</SimpleData>
+		<SimpleData name="Longitude">-75.673143</SimpleData>
+		<SimpleData name="On_Street">Fairplay Blvd</SimpleData>
+		<SimpleData name="State">DE</SimpleData>
+		<SimpleData name="Station_Na">Churchmans Crossing</SimpleData>
+		<SimpleData name="Stop_ID">90202</SimpleData>
+		<SimpleData name="Street_Add">1 Fairplay Blvd</SimpleData>
+		<SimpleData name="Zip">19713</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.6731428818556,39.6945336403175</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Media Elwyn Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Maryland Ave</SimpleData>
+		<SimpleData name="City">Clifton Heights</SimpleData>
+		<SimpleData name="County">Delaware</SimpleData>
+		<SimpleData name="Field_1">Media Elwyn Line</SimpleData>
+		<SimpleData name="Latitude">39.926748</SimpleData>
+		<SimpleData name="Line_Name">Media Elwyn Line</SimpleData>
+		<SimpleData name="Longitude">-75.290222</SimpleData>
+		<SimpleData name="On_Street">Springfield Rd</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Clifton-Aldan</SimpleData>
+		<SimpleData name="Stop_ID">90309</SimpleData>
+		<SimpleData name="Street_Add">1 Springfield Rd</SimpleData>
+		<SimpleData name="Zip">19018</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.2902216782998,39.9267483211282</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Lansdale Doylestown Line</name>
+	<ExtendedData><SchemaData schemaUrl="#SEPTAGISRegionalRailStations_2016">
+		<SimpleData name="At_Street">Shaw Ave</SimpleData>
+		<SimpleData name="City">Lansdale</SimpleData>
+		<SimpleData name="County">Montgomery</SimpleData>
+		<SimpleData name="Field_1">Lansdale Doylestown Line</SimpleData>
+		<SimpleData name="Latitude">40.250095</SimpleData>
+		<SimpleData name="Line_Name">Lansdale Doylestown Line</SimpleData>
+		<SimpleData name="Longitude">-75.279101</SimpleData>
+		<SimpleData name="On_Street">Ninth St</SimpleData>
+		<SimpleData name="State">PA</SimpleData>
+		<SimpleData name="Station_Na">Ninth Street</SimpleData>
+		<SimpleData name="Stop_ID">90539</SimpleData>
+		<SimpleData name="Street_Add">141 W. Ninth St</SimpleData>
+		<SimpleData name="Zip">19446</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-75.2791009962685,40.2500949220623</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
