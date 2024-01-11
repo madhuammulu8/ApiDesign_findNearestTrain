@@ -12,6 +12,8 @@
 
 ### Project results : 
 
-<img width="1118" alt="Screenshot 2024-01-11 at 3 04 56 PM" src="https://github.com/madhuammulu8/ApiDesign_findNearestTrain/assets/65707202/e4e01a46-8d87-4e8e-aa32-3bd52641bdbd">
+<img width="1512" alt="Screenshot 2024-01-11 at 3 29 59 PM" src="https://github.com/madhuammulu8/ApiDesign_findNearestTrain/assets/65707202/a91382d6-13fe-43df-8650-9b6901a2afcf">
+
+### Above is the basic website and below to verify in the google earth 
 
 <img width="1508" alt="Screenshot 2024-01-11 at 3 04 40 PM" src="https://github.com/madhuammulu8/ApiDesign_findNearestTrain/assets/65707202/6eb223fd-8f95-487f-8451-aeb893b89eb4">
