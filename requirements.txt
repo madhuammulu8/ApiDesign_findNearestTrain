@@ -1,4 +1,4 @@
-fastapi==0.68.0
+fastapi==0.1.6
 uvicorn==0.15.0
 geopandas==0.10.1
 shapely==2.0.2
