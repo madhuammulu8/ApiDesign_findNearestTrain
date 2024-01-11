@@ -1,4 +1,17 @@
-# ApiDesign_findingNearestTrain
+## How to run
+
+#### Prereqs : 
+```
+Geopandas : pip install geopandas
+Geopy: pip install geopy
+FastPI:pip install fastapi
+Point : pip install shapely
+
+Run Command: uvicorn main:app --reload
+```
+
+
+## ApiDesign_findingNearestTrain
 
 1. Our code will return an API that finds the nearest location based on the latitude and longitude we are entering in the input and returns the nearest rail line Southeastern Pennsylvania Transportation Authority
 2. **Not searching the same location, again and again,**:  I am using Dictionary to store the nearest location based on the location we entered, Key is the latitude and longitude we entered and the value is the nearest location so that when a new code executes it will search if lat, long already in the dictionary if it is not then only it will execute the logic (Ex: Dictionary = {<POINT (40 -74)>: 'Trenton Line', <POINT (24 24)>: 'TrentLine'}, Implemented locking to prevent data corruption in a critical section(**dictionary**), In an asynchronous environment, when multiple tasks could be accessing and modifying shared data simultaneously, a lock is used to synchronize access to ensure that only one thread or task can execute critical part code at a time
