@@ -5,3 +5,5 @@ shapely==1.7.1
 fiona==1.8.20
 fastapi-limiter==0.3.0
 geopy==2.2.0
+geos = 0.2.3
+shapely = 2.0.1
