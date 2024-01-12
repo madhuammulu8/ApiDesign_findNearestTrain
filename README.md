@@ -33,15 +33,20 @@ gunicorn -w 4 -k uvicorn.workers.UvicornWorker main:app
 8. **Will Deploy and create a basic frontend UI**: still working on it 
 
 
-### Project results : 
+### Project Results : 
 
-<img width="1512" alt="Screenshot 2024-01-11 at 3 29 59 PM" src="https://github.com/madhuammulu8/ApiDesign_findNearestTrain/assets/65707202/a91382d6-13fe-43df-8650-9b6901a2afcf">
+#### API:
+![image](https://github.com/madhuammulu8/ApiDesign_findNearestTrain/assets/65707202/a21d59a4-6445-4777-a89d-0d7845ec93f1)
 
-### Above is the basic website and below to verify in the google earth 
+#### Fronend:
+![image](https://github.com/madhuammulu8/ApiDesign_findNearestTrain/assets/65707202/1a5160f7-36d9-48b5-aead-5b26c638e61b)
 
-<img width="1508" alt="Screenshot 2024-01-11 at 3 04 40 PM" src="https://github.com/madhuammulu8/ApiDesign_findNearestTrain/assets/65707202/6eb223fd-8f95-487f-8451-aeb893b89eb4">
 
-### If you access more than 10 times within 60 secs, It will show Rate Limit Exceeded
+### Google Earth Results
+![image](https://github.com/madhuammulu8/ApiDesign_findNearestTrain/assets/65707202/2853e303-3e54-438e-89ae-b3e25c88e372)
+
+
+### If you access more than 10 times within 60 seconds, It will show Rate Limit Exceeded
 
 <img width="1021" alt="Screenshot 2024-01-11 at 10 25 56 PM" src="https://github.com/madhuammulu8/ApiDesign_findNearestTrain/assets/65707202/6cc2ea8d-1726-4b27-b6bc-87d751eeaa36">
 
