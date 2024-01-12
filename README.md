@@ -15,8 +15,10 @@ gunicorn -w 4 -k uvicorn.workers.UvicornWorker main:app
 
 ```
 
+```
 Frontend(Deployed in static webapp): https://equal-coyote.static.domains/
 API EndPoint(Deployed in Vercel) : https://api-design-find-nearest-train.vercel.app/nearestlocation?latitude=40.0&longitude=-75.0
+```
 
 ## ApiDesign_findingNearestTrain
 
