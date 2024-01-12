@@ -13,6 +13,8 @@ from fastapi import Request
 from locationcachefile import location_cache, location_cache_lock, load_location_cache
 from geopy.geocoders import Nominatim
 from fastapi_limiter import FastAPILimiter
+from fastapi.middleware.cors import CORSMiddleware
+
 
 supported_drivers['KML'] = 'rw'
 gdf = gpd.read_file('SEPTARegionalRailStations2016.kml')
@@ -73,6 +75,13 @@ def ratelimiter(maximumcalls: int, time_frame: int):
 
 app = FastAPI()
 
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  # Set this to the appropriate origin or origins
+    allow_credentials=True,
+    allow_methods=["*"],  # Set this to the appropriate HTTP methods
+    allow_headers=["*"],  # Set this to the appropriate headers
+)
 
 @app.get("/nearestlocation")
 @ratelimiter(maximumcalls=10, time_frame=60)
