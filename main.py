@@ -48,7 +48,7 @@ async def find_nearest_point(latitude, longitude):
 def get_address(latitude, longitude):
     geolocator = Nominatim(user_agent="nearest")
 
-    location = geolocator.reverse((latitude, longitude), language="en")
+    location = geolocator.reverse((longitude,latitude), language="en")
     address = location.address if location and location.address else None
     return address
 
