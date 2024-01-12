@@ -77,10 +77,10 @@ app = FastAPI()
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # Set this to the appropriate origin or origins
+    allow_origins=["*"], 
     allow_credentials=True,
-    allow_methods=["*"],  # Set this to the appropriate HTTP methods
-    allow_headers=["*"],  # Set this to the appropriate headers
+    allow_methods=["*"],  
+    allow_headers=["*"], 
 )
 
 @app.get("/nearestlocation")
