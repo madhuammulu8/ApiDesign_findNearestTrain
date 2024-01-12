@@ -40,3 +40,8 @@ gunicorn -w 4 -k uvicorn.workers.UvicornWorker main:app
 ### Above is the basic website and below to verify in the google earth 
 
 <img width="1508" alt="Screenshot 2024-01-11 at 3 04 40 PM" src="https://github.com/madhuammulu8/ApiDesign_findNearestTrain/assets/65707202/6eb223fd-8f95-487f-8451-aeb893b89eb4">
+
+### If you access more than 10 times within 60 secs, It will show Rate Limit Exceeded
+
+<img width="1021" alt="Screenshot 2024-01-11 at 10 25 56 PM" src="https://github.com/madhuammulu8/ApiDesign_findNearestTrain/assets/65707202/6cc2ea8d-1726-4b27-b6bc-87d751eeaa36">
+
