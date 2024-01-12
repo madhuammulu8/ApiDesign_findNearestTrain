@@ -1,21 +1,15 @@
 {
-    "version": 2,
-    "routes": [
-        {
-            "src": "/nearestlocation",
-            "dest": "main.py"
-        }
-    ],
-    "builds": {
-        "src": "main.py",
-        "use": "@vercel/python"
-    },
-    "env": {
-        "PORT": 3000
-    },
-    "server": {
-        "src": "main.py",
-        "command": "uvicorn main:app --host 0.0.0.0 --port $PORT",
-        "debug": true
+  "version": 2,
+  "builds": [
+    {
+      "src": "/main.py",
+      "use": "@now/python"
     }
+  ],
+  "routes": [
+    {
+      "src": "/nearestlocation",
+      "dest": "/main.py"
+    }
+  ]
 }
