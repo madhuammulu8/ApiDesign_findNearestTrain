@@ -36,7 +36,7 @@ gunicorn -w 4 -k uvicorn.workers.UvicornWorker main:app
 ### Project Results : 
 
 #### API:
-![image](https://github.com/madhuammulu8/ApiDesign_findNearestTrain/assets/65707202/a21d59a4-6445-4777-a89d-0d7845ec93f1)
+<img width="1510" alt="Screenshot 2024-01-16 at 9 16 34 AM" src="https://github.com/madhuammulu8/ApiDesign_findNearestTrain/assets/65707202/3cf0c5b1-d921-4023-8bc6-b9d6526990c9">
 
 #### Fronend:
 ![image](https://github.com/madhuammulu8/ApiDesign_findNearestTrain/assets/65707202/1a5160f7-36d9-48b5-aead-5b26c638e61b)
