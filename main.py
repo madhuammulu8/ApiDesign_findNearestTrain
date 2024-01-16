@@ -87,8 +87,8 @@ app.add_middleware(
 @ratelimiter(maximumcalls=10, time_frame=60)
 async def get_nearest_location(request:Request,latitude: float, longitude: float):
     try:
-        result = await find_nearest_point(latitude, longitude)
-        address = get_address(latitude, longitude)
+        result = await find_nearest_point(longitude,latitude)
+        address = get_address(longitude,latitude)
         return JSONResponse(content={
             "latitude": latitude,
             "longitude": longitude,
