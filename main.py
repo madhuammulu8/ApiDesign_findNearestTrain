@@ -1,24 +1,27 @@
 import time
 from functools import wraps
-
 import geopandas as gpd
-from fastapi_limiter.depends import RateLimiter
+import uvicorn
 from shapely.geometry import Point
 from fiona.drvsupport import supported_drivers
 from fastapi import FastAPI, HTTPException, Depends
 from fastapi.responses import JSONResponse
 from starlette import status
 from fastapi import Request
-
 from locationcachefile import location_cache, location_cache_lock, load_location_cache
 from geopy.geocoders import Nominatim
-from fastapi_limiter import FastAPILimiter
-from fastapi.middleware.cors import CORSMiddleware
 
+from fastapi import FastAPI
+from fastapi.middleware.cors import CORSMiddleware
+from os import  getenv
+
+from fastapi_limiter import FastAPILimiter
 
 supported_drivers['KML'] = 'rw'
 gdf = gpd.read_file('SEPTARegionalRailStations2016.kml')
 location_cache.update(load_location_cache())
+
+
 
 
 async def find_nearest_point(latitude, longitude):
@@ -48,12 +51,12 @@ async def find_nearest_point(latitude, longitude):
 def get_address(latitude, longitude):
     geolocator = Nominatim(user_agent="nearest")
 
-    location = geolocator.reverse((longitude,latitude), language="en")
+    location = geolocator.reverse(( longitude,latitude), language="en")
     address = location.address if location and location.address else None
     return address
 
 
-# print(find_nearest_point(-75.76, 40.0))
+# print(find_nearest_point(40.0, -75.76))
 
 def ratelimiter(maximumcalls: int, time_frame: int):
     def decorator(func):
@@ -77,10 +80,10 @@ app = FastAPI()
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"], 
+    allow_origins=["*"],  # Set this to the appropriate origin or origins
     allow_credentials=True,
-    allow_methods=["*"],  
-    allow_headers=["*"], 
+    allow_methods=["*"],  # Set this to the appropriate HTTP methods
+    allow_headers=["*"],  # Set this to the appropriate headers
 )
 
 @app.get("/nearestlocation")
@@ -96,3 +99,7 @@ async def get_nearest_location(request:Request,latitude: float, longitude: float
             "Address": address})
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
+
+if __name__ == "__main__":
+    port = int(getenv("PORT",8000))
+    uvicorn.run("app.main:",host="0.0.0.0",port=port,reload=True)
