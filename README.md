@@ -1,6 +1,5 @@
 
 ## Live Websites
-Frontend(Deployed in static webapp): https://equal-coyote.static.domains/
 
 API EndPoint(Deployed in Vercel) : https://api-design-find-nearest-train.vercel.app/nearestlocation?latitude=40.0&longitude=-75.0
 
@@ -30,7 +29,6 @@ gunicorn -w 4 -k uvicorn.workers.UvicornWorker main:app
 5. **Reasonably-sized instance of your API able to serve millions of requests per day**:  I have implemented asynchronous function implementation, This allows to handle multiple requests concurrently, especially when involving I/O. "await" is used when calling async functions which enables to perform another task while waiting for certain operation to complete. Using try and except blocks helps prevent applications from crashing due to unexpected errors and ensures appropriate HTTP responses are returned, indicating the error status
 6. **Protect your API against malicious users**: Implemented a rate limiter that allows a maximum of 10 requests within 60 seconds, It helps in protecting against a malicious attack such as brute force, API abuse, This is basic protection, We can use simple authentication if we need more protection
 7. **DC metro**: https://opendata.dc.gov/datasets/metro-stations-regional/explore?location=38.934919%2C-77.042966%2C11.58#:~:text=Generate%20new%20download-,with,-latest%20data, Just add the .kml file our code perfectly works for this data also without changing any code, **Code is written in a way with minor modifications we can use it for any similar data**.
-8. **Will Deploy and create a basic frontend UI**: still working on it 
 
 
 ### Project Results : 
@@ -41,6 +39,7 @@ gunicorn -w 4 -k uvicorn.workers.UvicornWorker main:app
 #### Fronend:
 ![image](https://github.com/madhuammulu8/ApiDesign_findNearestTrain/assets/65707202/1a5160f7-36d9-48b5-aead-5b26c638e61b)
 
+Frontend(Deployed in static web app Free Trail Expired): https://equal-coyote.static.domains/
 
 ### Google Earth Results
 ![image](https://github.com/madhuammulu8/ApiDesign_findNearestTrain/assets/65707202/2853e303-3e54-438e-89ae-b3e25c88e372)
